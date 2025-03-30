@@ -1,4 +1,13 @@
 The requirements have been added to and altered because of issues.
+
+Note: There is a revision to this project as was discovered ealier according to the poorly documented AWS Flow Log Records, Field 8 in the CSV refers the protocol, but flowing the url anchor tag refers to the PROTOCOL NUMBER (within the IANA linked document) or in the Assigned Internet Protocol Numbers in the AWS Document.   The set me off making some big assumptions, not connecting 'PROTOCOL NUMBER' with port number (as an integer).  I had started some of this work with out internet access or a working data plan.  Working from Starbuck did help either (no internet there either.  Todat Sunday March 30, I fly to Las Vegas to pick up my truck that was left there weeks before to make it home to a cancel in person interview that was cancel during my return flight home.  Given that my approach made some fatal assumptions that where cleared up far too late.
+These files would have change my direction earlier:
+AWS_Flow_Control_Logs.txt
+Flow_Log_Records/iana.csv
+PROTOCOLS1.txt
+
+With data in the last checkin prior to thisthere is better informationtoi have a better completion.
+
 Issues:
 1.  The first issue is devired from real world condioneds.  In looking at communication protocols there are to major types:
 	a. TCPIP
