@@ -9,7 +9,7 @@ PROTOCOLS1.txt
 With data in the last checkin prior to thisthere is better informationtoi have a better completion.
 
 Issues:
-1.  The first issue is devired from real world condioneds.  In looking at communication protocols there are to major types:
+1.  The first issue is devired from real world condions.  In looking at communication protocols there are to major types:
 	a. TCPIP
 	b. UDP
 The problem comes in the lookup of the port from the Flow Log Records.  Only the PORT number is refference in the FLOW Log, which the Wiki refers to https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
