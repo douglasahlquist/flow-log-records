@@ -1,0 +1,68 @@
+Several internet protocols extend or build upon UDP (User Datagram Protocol) to add reliability, security, or additional features. Here are some key ones:
+
+1. QUIC (Quick UDP Internet Connections)
+	•	Developed by Google, now standardized by IETF.
+	•	Provides reliability, multiplexing, and encryption (TLS 1.3) over UDP.
+	•	Used in HTTP/3 for faster web performance.
+
+2. DTLS (Datagram Transport Layer Security)
+	•	A UDP-based counterpart of TLS for encrypted, secure communication.
+	•	Used in VoIP (SIP, WebRTC), VPNs (OpenVPN), and IoT protocols (CoAP, LwM2M).
+
+3. RTP (Real-time Transport Protocol)
+	•	Used for streaming audio and video over UDP.
+	•	Often paired with RTCP (RTP Control Protocol) for QoS monitoring.
+	•	Used in VoIP, WebRTC, and video conferencing (Zoom, Teams, etc.)
+
+4. SCTP (Stream Control Transmission Protocol) over UDP (SCTP-UDP encapsulation)
+	•	Adds TCP-like reliability while using UDP for NAT traversal.
+	•	Used in telecom signaling (Diameter, 5G core network protocols).
+
+5. CoAP (Constrained Application Protocol)
+	•	Lightweight IoT protocol designed for constrained devices.
+	•	Uses DTLS for security and supports RESTful communication like HTTP.
+
+6. TFTP (Trivial File Transfer Protocol)
+	•	A simplified version of FTP that runs over UDP (port 69).
+	•	Used for network booting, firmware updates, and device provisioning.
+
+7. LDP (Label Distribution Protocol) over UDP
+	•	Used in MPLS (Multiprotocol Label Switching) networks to establish label-switched paths.
+
+8. DNS (Domain Name System) over UDP
+	•	Standard protocol for domain name resolution.
+	•	Can fall back to TCP for large responses.
+	•	Variants: DoH (DNS over HTTPS) and DoT (DNS over TLS) for security.
+
+
+
+Several internet protocols extend or build upon TCP (Transmission Control Protocol) to provide additional functionalities. Here are some key ones:
+
+1. TLS (Transport Layer Security) / SSL (Secure Sockets Layer)
+	•	Encrypts TCP connections to ensure confidentiality, integrity, and authentication.
+	•	Used in HTTPS, FTPS, SMTPS, etc.
+
+2. SCTP (Stream Control Transmission Protocol)
+	•	Enhances TCP by supporting multiple streams within a connection to prevent head-of-line blocking.
+	•	Used in telecom signaling and certain real-time applications.
+
+3. MPTCP (Multipath TCP)
+	•	Allows multiple paths for a single TCP connection to increase reliability and throughput.
+	•	Useful in mobile networks where devices can use both Wi-Fi and LTE simultaneously.
+
+4. QUIC (Quick UDP Internet Connections) over TCP (deprecated concept)
+	•	Originally explored as a TCP extension but later evolved into a UDP-based protocol.
+	•	Google’s early versions experimented with TCP before fully moving to UDP.
+
+5. BGP (Border Gateway Protocol) over TCP
+	•	BGP itself is an application-layer protocol but relies on TCP (port 179) for reliable session establishment between routers.
+
+6. SMB (Server Message Block) over TCP
+	•	Used for file sharing and network communication in Windows environments.
+	•	Runs over TCP (port 445).
+
+7. FTP (File Transfer Protocol) over TCP
+	•	Uses two TCP connections: control (port 21) and data (varies)
+Would you like details on a specific protocol or its implementation?
+
+

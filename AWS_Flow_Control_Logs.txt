@@ -1,0 +1,106 @@
+In AWS VPC Flow Logs, you can determine whether the traffic is UDP or TCP by looking at the protocol field in the flow log record. The protocol field uses IANA protocol numbers to specify the transport layer protocol.
+
+Steps to Identify TCP or UDP:
+	1.	Locate the Protocol Field
+	•	The protocol field is the 4th field in the flow log record (if using the default format).
+	2.	Check the Value of the Protocol Field
+	•	6 → TCP
+	•	17 → UDP
+	3.	Example AWS VPC Flow Log Entries
+	•	TCP Example:
+TCP Example
+2 123456789012 eni-abc123de 192.168.1.10 203.0.113.5 443 56000 6 60 4000 1628803200 1628803260 ACCEPT OK
+
+UDP Example
+2 123456789012 eni-abc123de 192.168.1.10 203.0.113.5 53 51000 17 10 800 1628803200 1628803260 ACCEPT OK
+•	Protocol 17 → UDP
+
+Additional Protocol Numbers:
+•	1 → ICMP
+•	50 → ESP (IPSec)
+•	58 → ICMPv6
+
+Would you like help with filtering VPC Flow Logs for UDP/TCP traffic using AWS Athena or CloudWatch Logs?
+
+In AWS VPC Flow Logs, Field 6 (the protocol field) uses the IANA protocol numbers to indicate the IP protocol used in the network traffic. The most common values are:
+
+Common Protocol Numbers in AWS Flow Logs:
+
+Protocol Number	Protocol Name	Description
+6	TCP	Transmission Control Protocol
+17	UDP	User Datagram Protocol
+1	ICMP	Internet Control Message Protocol (IPv4)
+58	ICMPv6	Internet Control Message Protocol (IPv6)
+50	ESP	Encapsulating Security Payload (for IPSec VPNs)
+51	AH	Authentication Header (for IPSec VPNs)
+Less Common but Possible Protocol Numbers
+
+Protocol Number	Protocol Name	Description
+2	IGMP	Internet Group Management Protocol (used for multicast)
+41	IPv6 Encapsulation	IPv6-in-IPv4 tunneling
+47	GRE	Generic Routing Encapsulation (VPNs, tunneling)
+89	OSPF	Open Shortest Path First (routing protocol)
+132	SCTP	Stream Control Transmission Protocol (used in telecom)
+For a full list of IANA-assigned protocol numbers, you can refer to:
+https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml
+
+Would you like help filtering logs to extract specific protocol traffic?
+
+To filter AWS VPC Flow Logs for specific protocol traffic (e.g., TCP, UDP, ICMP), you can use AWS Athena, CloudWatch Logs Insights, or AWS CLI.
+⸻
+1. Using AWS Athena (Recommended for Large Log Data)
+
+AWS Athena allows you to run SQL queries on VPC Flow Logs stored in an S3 bucket. First, make sure you have set up a table for VPC Flow Logs in Athena.
+
+SQL Query to Filter by Protocol
+SELECT *
+FROM vpc_flow_logs
+WHERE protocol = 6  -- Change to 17 for UDP, 1 for ICMP
+ORDER BY start_time DESC
+LIMIT 100;
+
+
+⸻
+2. Using CloudWatch Logs Insights
+
+If your VPC Flow Logs are stored in CloudWatch Logs, you can use CloudWatch Logs Insights.
+
+CloudWatch Query to Filter by Protocol
+
+fields @timestamp, srcAddr, dstAddr, srcPort, dstPort, protocol
+| filter protocol = 6  -- Change to 17 for UDP, 1 for ICMP
+| sort @timestamp desc
+| limit 100
+
+•	You can run this query in the CloudWatch Logs Insights console under the correct log group.
+
+⸻
+
+3. Using AWS CLI to Filter Flow Logs
+
+If you have AWS CLI configured, you can fetch flow logs from CloudWatch Logs and filter for a specific protocol.
+
+Example CLI Command for TCP (Protocol 6)
+
+aws logs filter-log-events \
+    --log-group-name "/aws/vpc/flow-logs" \
+    --query 'events[?contains(message, `6`)]' \
+    --limit 100
+
+
+aws logs filter-log-events \
+    --log-group-name "/aws/vpc/flow-logs" \
+    --query 'events[?contains(message, `6`)]' \
+    --limit 100
+
+
+Modify for UDP (17) or ICMP (1) by changing the 6 in contains(message, '6').
+
+⸻
+
+Need Help Automating This?
+	•	Do you want to automate this filtering with a Lambda function?
+	•	Would you like to set up alerts in CloudWatch for specific protocol traffic?
+
+
+
