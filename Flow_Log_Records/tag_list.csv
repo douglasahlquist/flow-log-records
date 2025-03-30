@@ -1,0 +1,3928 @@
+994,tcp,IRCS
+830,udp,NETCONF
+862,tcp,RFC 5357
+829,tcp,Certificate
+631,tcp,CUPS
+698,udp,OLSR
+500,udp,ISAKMP
+532,tcp,null
+533,udp,netwall
+401,udp,UPS
+433,tcp,NNTP
+434,udp,RFC 5944
+137,udp,NetBIOS Name Service
+169,tcp,null
+170,udp,Network
+104,udp,DICOM; also port 11112
+5,udp,Remote Job Entry was historically using socket 5 in its old socket form
+37,tcp,Time
+38,udp,Route Access Protocol
+70,tcp,Gopher
+995,tcp,POP3S
+831,udp,NETCONF
+897,udp,Brocade
+830,tcp,NETCONF
+666,udp,airserv-ng
+698,tcp,OLSR
+500,tcp,ISAKMP
+533,tcp,netwall
+369,udp,null
+401,tcp,UPS
+434,tcp,RFC 5944
+105,udp,CCSO
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+39,udp,Resource Location Protocol
+104,tcp,DICOM; also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+832,udp,NETCONF
+831,tcp,NETCONF
+898,udp,Brocade
+897,tcp,Brocade
+700,udp,EPP
+666,tcp,airserv-ng
+601,udp,Reliable
+502,udp,Modbus
+369,tcp,null
+370,udp,securecast1
+139,udp,NetBIOS
+105,tcp,CCSO
+106,udp,macOS
+138,tcp,NetBIOS
+7,udp,Echo
+39,tcp,Resource Location Protocol
+800,udp,null
+832,tcp,NETCONF
+898,tcp,Brocade
+833,udp,NETCONF
+700,tcp,EPP
+635,udp,RLZ
+701,udp,LMP
+601,tcp,Reliable
+371,udp,ClearCase
+502,tcp,Modbus
+370,tcp,securecast1
+107,udp,RTelnet
+139,tcp,NetBIOS
+41,udp,Graphics
+106,tcp,macOS
+7,tcp,Echo
+800,tcp,null
+833,tcp,NETCONF
+636,udp,LDAPS
+635,tcp,RLZ
+702,udp,Internet Registry Information Service
+701,tcp,LMP
+504,udp,Citadel
+371,tcp,ClearCase
+107,tcp,RTelnet
+108,udp,SNA
+9,udp,null
+41,tcp,Graphics
+42,udp,Host
+802,udp,MODBUS/TCP
+604,udp,TUNNEL profile
+636,tcp,LDAPS
+702,tcp,Internet Registry Information Service
+504,tcp,Citadel
+175,udp,VMNET
+109,udp,POP2
+43,udp,WHOIS
+76,udp,Distributed External Object Store
+108,tcp,SNA
+9,tcp,null
+42,tcp,Host
+902,udp,VMware
+802,tcp,MODBUS/TCP
+604,tcp,TUNNEL profile
+308,udp,Novastor
+209,udp,Quick
+143,udp,IMAP
+175,tcp,VMNET
+109,tcp,POP2
+110,udp,POP3
+11,udp,systat service
+43,tcp,WHOIS
+44,udp,MPM FLAGS Protocol
+76,tcp,Distributed External Object Store
+903,udp,VMware
+902,tcp,VMware
+639,udp,Multicast Source Discovery Protocol
+540,udp,UUCP
+308,tcp,Novastor
+177,udp,XDMCP
+209,tcp,Quick
+210,udp,ANSI
+111,udp,ONC RPC, sometimes referred to as Sun RPC
+143,tcp,IMAP
+45,udp,Message Processing Module
+78,udp,vettcp
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+639,tcp,Multicast Source Discovery Protocol
+706,udp,SILC
+540,tcp,UUCP
+475,udp,tcpnethaspsrv
+376,udp,Amiga
+177,tcp,XDMCP
+210,tcp,ANSI
+79,udp,Finger
+111,tcp,ONC RPC, sometimes referred to as Sun RPC
+112,udp,McIDAS
+13,udp,Daytime
+45,tcp,Message Processing Module
+46,udp,MPM
+78,tcp,vettcp
+674,udp,ACAP
+706,tcp,SILC
+641,udp,control/listening
+443,udp,HTTPS
+475,tcp,tcpnethaspsrv
+542,udp,Commerce Applications
+311,udp,officially AppleShare IP Web administration
+376,tcp,Amiga
+179,udp,BGP
+113,udp,auth
+79,tcp,Finger
+80,udp,HTTP
+112,tcp,McIDAS
+13,tcp,Daytime
+46,tcp,MPM
+873,udp,rsync
+543,udp,klogin
+674,tcp,ACAP
+641,tcp,control/listening
+443,tcp,HTTPS
+510,udp,FCP
+542,tcp,Commerce Applications
+444,udp,SNPP
+311,tcp,officially AppleShare IP Web administration
+312,udp,macOS
+213,udp,IPX
+179,tcp,BGP
+180,udp,null
+81,udp,TorPark
+113,tcp,auth
+15,udp,Previously
+48,udp,Digital Audit Daemon
+80,tcp,HTTP
+808,udp,Microsoft
+873,tcp,rsync
+643,udp,null
+544,udp,kshell
+543,tcp,klogin
+445,udp,Directory Services
+510,tcp,FCP
+444,tcp,SNPP
+280,udp,null
+312,tcp,macOS
+213,tcp,IPX
+115,udp,Simple
+180,tcp,null
+49,udp,TACACS Login Host protocol. TACACS+
+81,tcp,TorPark
+82,udp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+808,tcp,Microsoft
+643,tcp,null
+512,udp,comsat
+544,tcp,kshell
+445,tcp,Directory Services
+280,tcp,null
+83,udp,MIT ML Device
+115,tcp,Simple
+17,udp,QOTD
+49,tcp,TACACS Login Host protocol. TACACS+
+50,udp,Remote Mail Checking Protocol
+82,tcp,TorPark
+843,udp,Adobe
+711,udp,Cisco
+777,udp,machine
+512,tcp,comsat
+546,udp,DHCPv6
+513,udp,null
+117,udp,path service
+51,udp,Historically used for Interface Message Processor logical address management
+83,tcp,MIT ML Device
+84,udp,Common Trace Facility
+17,tcp,QOTD
+18,udp,Message
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+712,udp,TBRPF; RFC 3684
+711,tcp,Cisco
+777,tcp,machine
+547,udp,DHCPv6
+646,udp,LDP
+514,udp,Syslog
+546,tcp,DHCPv6
+513,tcp,null
+151,udp,null
+85,udp,MIT ML Device
+117,tcp,path service
+118,udp,SQL
+19,udp,CHARGEN
+51,tcp,Historically used for Interface Message Processor logical address management
+52,udp,XNS
+84,tcp,Common Trace Facility
+18,tcp,Message
+1010,udp,ThinLinc
+712,tcp,TBRPF; RFC 3684
+647,udp,DHCP
+548,udp,AFP
+515,udp,LPD
+547,tcp,DHCPv6
+646,tcp,LDP
+383,udp,HP
+514,tcp,Syslog
+350,udp,MATIP
+218,udp,MPP
+119,udp,NNTP
+151,tcp,null
+152,udp,BFTP
+53,udp,DNS
+85,tcp,MIT ML Device
+86,udp,Micro Focus Cobol
+118,tcp,SQL
+19,tcp,CHARGEN
+20,udp,FTP
+52,tcp,XNS
+1010,tcp,ThinLinc
+648,udp,RRP
+647,tcp,DHCP
+548,tcp,AFP
+515,tcp,LPD
+351,udp,MATIP
+383,tcp,HP
+384,udp,A
+318,udp,TSP
+350,tcp,MATIP
+153,udp,SGMP
+218,tcp,MPP
+119,tcp,NNTP
+152,tcp,BFTP
+21,udp,FTP
+53,tcp,DNS
+54,udp,XNS
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+847,udp,DHCP
+648,tcp,RRP
+550,udp,new-rwho
+517,udp,null
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+220,udp,IMAP
+153,tcp,SGMP
+55,udp,ISI Graphics Language
+88,udp,Kerberos
+21,tcp,FTP
+22,udp,SSH
+54,tcp,XNS
+848,udp,GDOI
+847,tcp,DHCP
+782,udp,Conserver
+749,udp,Kerberos
+518,udp,null
+550,tcp,new-rwho
+517,tcp,null
+319,tcp,PTP
+320,udp,PTP
+220,tcp,IMAP
+89,udp,SU/MIT Telnet Gateway
+23,udp,Telnet
+55,tcp,ISI Graphics Language
+56,udp,XNS
+88,tcp,Kerberos
+22,tcp,SSH
+981,udp,Remote
+848,tcp,GDOI
+783,udp,SpamAssassin
+684,udp,CORBA
+651,udp,null
+750,udp,kerberos-iv
+782,tcp,Conserver
+749,tcp,Kerberos
+585,udp,IMAPS
+387,udp,AppleTalk Update-based Routing Protocol
+518,tcp,null
+320,tcp,PTP
+123,udp,NTP
+156,udp,SQL
+89,tcp,SU/MIT Telnet Gateway
+90,udp,dotcom
+23,tcp,Telnet
+56,tcp,XNS
+981,tcp,Remote
+751,udp,kerberos_master
+783,tcp,SpamAssassin
+684,tcp,CORBA
+651,tcp,null
+750,tcp,kerberos-iv
+520,udp,RIP
+585,tcp,IMAPS
+387,tcp,AppleTalk Update-based Routing Protocol
+388,udp,Unidata
+91,udp,MIT Dover Spooler
+123,tcp,NTP
+156,tcp,SQL
+25,udp,SMTP
+58,udp,XNS
+90,tcp,dotcom
+752,udp,kpasswd
+751,tcp,kerberos_master
+587,udp,No longer preferred; see port 465.
+653,udp,data
+520,tcp,RIP
+554,udp,RTSP
+521,udp,RIPng
+389,udp,LDAP
+323,udp,Resource
+356,udp,used by Cloanto Amiga Explorer and VMs
+388,tcp,Unidata
+158,udp,DMSP, sometimes referred to as Pcmail
+91,tcp,MIT Dover Spooler
+92,udp,Network Printing Protocol
+25,tcp,SMTP
+58,tcp,XNS
+752,tcp,kpasswd
+753,udp,userreg_server
+587,tcp,No longer preferred; see port 465.
+654,udp,MMS
+653,tcp,data
+554,tcp,RTSP
+521,tcp,RIPng
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+93,udp,Device Control Protocol
+126,udp,Formerly Unisys Unitary Login
+158,tcp,DMSP, sometimes referred to as Pcmail
+27,udp,NSW User System FE
+92,tcp,Network Printing Protocol
+853,udp,DNS
+688,udp,ApplianceWare Server Appliance Management Protocol
+655,udp,Tinc
+754,udp,krb5_prop
+753,tcp,userreg_server
+556,udp,Remotefs
+654,tcp,MMS
+259,udp,ESRO
+61,udp,Historically assigned to the NIFTP-Based Mail protocol
+93,tcp,Device Control Protocol
+94,udp,Tivoli Object Dispatcher
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+28,udp,HA
+953,udp,RNDC
+853,tcp,DNS
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASF-RMCP
+655,tcp,Tinc
+754,tcp,krb5_prop
+524,udp,NCP
+556,tcp,Remotefs
+491,udp,GO-Global
+259,tcp,ESRO
+161,udp,SNMP
+194,udp,IRC
+95,udp,SUPDUP
+29,udp,MSG ICP
+61,tcp,Historically assigned to the NIFTP-Based Mail protocol
+62,udp,ACA Services
+94,tcp,Tivoli Object Dispatcher
+987,udp,Microsoft Remote Web Workplace
+28,tcp,HA
+888,udp,IBM
+953,tcp,RNDC
+591,udp,and later
+623,tcp,ASF-RMCP
+690,udp,VATP
+657,udp,Remote monitoring and Control
+524,tcp,NCP
+491,tcp,GO-Global
+525,udp,Timed
+161,tcp,SNMP
+162,udp,SNMPTRAP
+194,tcp,IRC
+63,udp,whois++
+95,tcp,SUPDUP
+96,udp,DIXIE Protocol Specification
+29,tcp,MSG ICP
+988,udp,file system
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+888,tcp,IBM
+691,udp,MS
+591,tcp,and later
+690,tcp,VATP
+625,udp,ODProxy
+657,tcp,Remote monitoring and Control
+427,udp,SLP
+525,tcp,Timed
+262,udp,null
+97,udp,Swift Remote Virtual File Protocol
+162,tcp,SNMPTRAP
+31,udp,MSG Authentication
+63,tcp,whois++
+64,udp,Communications Integrator (CI
+96,tcp,DIXIE Protocol Specification
+988,tcp,file system
+989,udp,data
+691,tcp,MS
+560,udp,rmonitor
+593,udp,HTTP RPC Ep Map
+625,tcp,ODProxy
+427,tcp,SLP
+262,tcp,null
+65,udp,TACACS-Database Service
+97,tcp,Swift Remote Virtual File Protocol
+98,udp,TAC News
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator (CI
+990,udp,control
+989,tcp,data
+660,udp,macOS Server administration
+560,tcp,rmonitor
+561,udp,null
+593,tcp,HTTP RPC Ep Map
+264,udp,BGMP
+165,udp,null
+99,udp,Metagram Relay
+33,udp,Display Support Protocol
+65,tcp,TACACS-Database Service
+66,udp,Oracle SQL*NET
+98,tcp,TAC News
+991,udp,NAS
+0,udp,null
+990,tcp,control
+760,udp,krbupdate
+660,tcp,macOS Server administration
+694,udp,Linux-HA
+561,tcp,null
+199,udp,SMUX
+264,tcp,BGMP
+165,tcp,null
+67,udp,BOOTP
+99,tcp,Metagram Relay
+1,udp,TCPMUX
+33,tcp,Display Support Protocol
+992,udp,Telnet
+66,tcp,Oracle SQL*NET
+991,tcp,NAS
+0,tcp,null
+860,udp,RFC 3720
+760,tcp,krbupdate
+695,udp,IEEE-MMS-SSL
+563,udp,NNTPS
+694,tcp,Linux-HA
+530,udp,RPC
+464,udp,Kpasswd:
+497,udp,null
+199,tcp,SMUX
+101,udp,NIC
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+2,udp,Management Utility
+993,udp,IMAPS
+860,tcp,RFC 3720
+861,udp,RFC 4656
+695,tcp,IEEE-MMS-SSL
+564,udp,Plan 9
+563,tcp,NNTPS
+465,udp,URL
+497,tcp,null
+399,udp,Phase V
+530,tcp,RPC
+464,tcp,Kpasswd:
+366,udp,ODMR
+300,udp,ThinLinc Web Access
+201,udp,AppleTalk
+135,udp,End Point Mapper
+69,udp,TFTP
+101,tcp,NIC
+102,udp,TSAP
+3,udp,Compression Process
+68,tcp,BOOTP
+2,tcp,Management Utility
+994,udp,IRCS
+993,tcp,IMAPS
+862,udp,RFC 5357
+829,udp,Certificate
+861,tcp,RFC 4656
+631,udp,CUPS
+532,udp,null
+564,tcp,Plan 9
+433,udp,NNTP
+465,tcp,URL
+399,tcp,Phase V
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+169,udp,null
+201,tcp,AppleTalk
+135,tcp,End Point Mapper
+37,udp,Time
+69,tcp,TFTP
+70,udp,Gopher
+102,tcp,TSAP
+995,udp,POP3S
+3,tcp,Compression Process
+994,tcp,IRCS
+830,udp,NETCONF
+862,tcp,RFC 5357
+829,tcp,Certificate
+631,tcp,CUPS
+698,udp,OLSR
+500,udp,ISAKMP
+533,udp,netwall
+401,udp,UPS
+433,tcp,NNTP
+434,udp,RFC 5944
+137,udp,NetBIOS Name Service
+170,udp,Network
+104,udp,DICOM also port 11112
+5,udp,Remote Job Entry was historically using socket 5 in its old socket form
+37,tcp,Time
+38,udp,Route Access Protocol
+70,tcp,Gopher
+995,tcp,POP3S
+831,udp,NETCONF
+897,udp,Brocade
+830,tcp,NETCONF
+666,udp,airservng
+698,tcp,OLSR
+500,tcp,ISAKMP
+533,tcp,netwall
+401,tcp,UPS
+434,tcp,RFC 5944
+105,udp,CCSO
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+39,udp,Resource Location Protocol
+104,tcp,DICOM also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+832,udp,NETCONF
+831,tcp,NETCONF
+898,udp,Brocade
+897,tcp,Brocade
+700,udp,EPP
+666,tcp,airservng
+601,udp,Reliable
+502,udp,Modbus
+370,udp,securecast1
+139,udp,NetBIOS
+105,tcp,CCSO
+106,udp,macOS
+138,tcp,NetBIOS
+7,udp,Echo
+39,tcp,Resource Location Protocol
+832,tcp,NETCONF
+898,tcp,Brocade
+833,udp,NETCONF
+700,tcp,EPP
+635,udp,RLZ
+701,udp,LMP
+601,tcp,Reliable
+371,udp,ClearCase
+502,tcp,Modbus
+370,tcp,securecast1
+107,udp,RTelnet
+139,tcp,NetBIOS
+41,udp,Graphics
+106,tcp,macOS
+7,tcp,Echo
+833,tcp,NETCONF
+636,udp,LDAPS
+635,tcp,RLZ
+702,udp,Internet Registry Information Service
+701,tcp,LMP
+504,udp,Citadel
+371,tcp,ClearCase
+107,tcp,RTelnet
+108,udp,SNA
+9,udp,Discard
+41,tcp,Graphics
+42,udp,Host
+802,udp,MODBUSTCP
+604,udp,TUNNEL profile
+636,tcp,LDAPS
+702,tcp,Internet Registry Information Service
+504,tcp,Citadel
+175,udp,VMNET
+109,udp,POP2
+43,udp,WHOIS
+76,udp,Distributed External Object Store
+108,tcp,SNA
+9,tcp,Discard
+42,tcp,Host
+902,udp,VMware
+802,tcp,MODBUSTCP
+604,tcp,TUNNEL profile
+308,udp,Novastor
+209,udp,Quick
+143,udp,IMAP
+175,tcp,VMNET
+109,tcp,POP2
+110,udp,POP3
+11,udp,systat service
+43,tcp,WHOIS
+44,udp,MPM FLAGS Protocol
+76,tcp,Distributed External Object Store
+903,udp,VMware
+902,tcp,VMware
+639,udp,Multicast Source Discovery Protocol
+540,udp,UUCP
+308,tcp,Novastor
+177,udp,XDMCP
+209,tcp,Quick
+210,udp,ANSI
+111,udp,ONC RPC sometimes referred to as Sun RPC
+143,tcp,IMAP
+45,udp,Message Processing Module
+78,udp,vettcp
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+639,tcp,Multicast Source Discovery Protocol
+706,udp,SILC
+540,tcp,UUCP
+475,udp,tcpnethaspsrv
+376,udp,Amiga
+177,tcp,XDMCP
+210,tcp,ANSI
+79,udp,Finger
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,udp,McIDAS
+13,udp,Daytime
+45,tcp,Message Processing Module
+46,udp,MPM
+78,tcp,vettcp
+674,udp,ACAP
+706,tcp,SILC
+641,udp,controllistening
+443,udp,HTTPS
+475,tcp,tcpnethaspsrv
+542,udp,Commerce Applications
+311,udp,officially AppleShare IP Web administration
+376,tcp,Amiga
+179,udp,BGP
+113,udp,auth
+79,tcp,Finger
+80,udp,HTTP
+112,tcp,McIDAS
+13,tcp,Daytime
+46,tcp,MPM
+873,udp,rsync
+543,udp,klogin
+674,tcp,ACAP
+641,tcp,controllistening
+443,tcp,HTTPS
+510,udp,FCP
+542,tcp,Commerce Applications
+444,udp,SNPP
+311,tcp,officially AppleShare IP Web administration
+312,udp,macOS
+213,udp,IPX
+179,tcp,BGP
+81,udp,TorPark
+113,tcp,auth
+15,udp,Previously
+48,udp,Digital Audit Daemon
+80,tcp,HTTP
+808,udp,Microsoft
+873,tcp,rsync
+544,udp,kshell
+543,tcp,klogin
+445,udp,Directory Services
+510,tcp,FCP
+444,tcp,SNPP
+312,tcp,macOS
+213,tcp,IPX
+115,udp,Simple
+49,udp,TACACS Login Host protocol TACACS
+81,tcp,TorPark
+82,udp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+808,tcp,Microsoft
+512,udp,comsat
+544,tcp,kshell
+445,tcp,Directory Services
+83,udp,MIT ML Device
+115,tcp,Simple
+17,udp,QOTD
+49,tcp,TACACS Login Host protocol TACACS
+50,udp,Remote Mail Checking Protocol
+82,tcp,TorPark
+843,udp,Adobe
+711,udp,Cisco
+777,udp,machine
+512,tcp,comsat
+546,udp,DHCPv6
+117,udp,path service
+51,udp,Historically used for Interface Message Processor logical address management
+83,tcp,MIT ML Device
+84,udp,Common Trace Facility
+17,tcp,QOTD
+18,udp,Message
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+712,udp,TBRPF RFC 3684
+711,tcp,Cisco
+777,tcp,machine
+547,udp,DHCPv6
+646,udp,LDP
+514,udp,Syslog
+546,tcp,DHCPv6
+85,udp,MIT ML Device
+117,tcp,path service
+118,udp,SQL
+19,udp,CHARGEN
+51,tcp,Historically used for Interface Message Processor logical address management
+52,udp,XNS
+84,tcp,Common Trace Facility
+18,tcp,Message
+1010,udp,ThinLinc
+712,tcp,TBRPF RFC 3684
+647,udp,DHCP
+548,udp,AFP
+515,udp,LPD
+547,tcp,DHCPv6
+646,tcp,LDP
+383,udp,HP
+514,tcp,Syslog
+350,udp,MATIP
+218,udp,MPP
+119,udp,NNTP
+152,udp,BFTP
+53,udp,DNS
+85,tcp,MIT ML Device
+86,udp,Micro Focus Cobol
+118,tcp,SQL
+19,tcp,CHARGEN
+20,udp,FTP
+52,tcp,XNS
+1010,tcp,ThinLinc
+648,udp,RRP
+647,tcp,DHCP
+548,tcp,AFP
+515,tcp,LPD
+351,udp,MATIP
+383,tcp,HP
+384,udp,A
+318,udp,TSP
+350,tcp,MATIP
+153,udp,SGMP
+218,tcp,MPP
+119,tcp,NNTP
+152,tcp,BFTP
+21,udp,FTP
+53,tcp,DNS
+54,udp,XNS
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+847,udp,DHCP
+648,tcp,RRP
+550,udp,newrwho
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+220,udp,IMAP
+153,tcp,SGMP
+55,udp,ISI Graphics Language
+88,udp,Kerberos
+21,tcp,FTP
+22,udp,SSH
+54,tcp,XNS
+848,udp,GDOI
+847,tcp,DHCP
+782,udp,Conserver
+749,udp,Kerberos
+550,tcp,newrwho
+319,tcp,PTP
+320,udp,PTP
+220,tcp,IMAP
+89,udp,SUMIT Telnet Gateway
+23,udp,Telnet
+55,tcp,ISI Graphics Language
+56,udp,XNS
+88,tcp,Kerberos
+22,tcp,SSH
+981,udp,Remote
+848,tcp,GDOI
+783,udp,SpamAssassin
+684,udp,CORBA
+750,udp,kerberosiv
+782,tcp,Conserver
+749,tcp,Kerberos
+585,udp,IMAPS
+387,udp,AppleTalk Updatebased Routing Protocol
+320,tcp,PTP
+123,udp,NTP
+156,udp,SQL
+89,tcp,SUMIT Telnet Gateway
+90,udp,dotcom
+23,tcp,Telnet
+56,tcp,XNS
+981,tcp,Remote
+751,udp,kerberosmaster
+783,tcp,SpamAssassin
+684,tcp,CORBA
+750,tcp,kerberosiv
+520,udp,RIP
+585,tcp,IMAPS
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,udp,Unidata
+91,udp,MIT Dover Spooler
+123,tcp,NTP
+156,tcp,SQL
+25,udp,SMTP
+58,udp,XNS
+90,tcp,dotcom
+752,udp,kpasswd
+751,tcp,kerberosmaster
+587,udp,No longer preferred see port 465
+653,udp,data
+520,tcp,RIP
+554,udp,RTSP
+521,udp,RIPng
+389,udp,LDAP
+323,udp,Resource
+356,udp,used by Cloanto Amiga Explorer and VMs
+388,tcp,Unidata
+158,udp,DMSP sometimes referred to as Pcmail
+91,tcp,MIT Dover Spooler
+92,udp,Network Printing Protocol
+25,tcp,SMTP
+58,tcp,XNS
+752,tcp,kpasswd
+753,udp,userregserver
+587,tcp,No longer preferred see port 465
+654,udp,MMS
+653,tcp,data
+554,tcp,RTSP
+521,tcp,RIPng
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+93,udp,Device Control Protocol
+126,udp,Formerly Unisys Unitary Login
+158,tcp,DMSP sometimes referred to as Pcmail
+27,udp,NSW User System FE
+92,tcp,Network Printing Protocol
+853,udp,DNS
+688,udp,ApplianceWare Server Appliance Management Protocol
+655,udp,Tinc
+754,udp,krb5prop
+753,tcp,userregserver
+556,udp,Remotefs
+654,tcp,MMS
+259,udp,ESRO
+61,udp,Historically assigned to the NIFTPBased Mail protocol
+93,tcp,Device Control Protocol
+94,udp,Tivoli Object Dispatcher
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+28,udp,HA
+953,udp,RNDC
+853,tcp,DNS
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASFRMCP
+655,tcp,Tinc
+754,tcp,krb5prop
+524,udp,NCP
+556,tcp,Remotefs
+491,udp,GOGlobal
+259,tcp,ESRO
+161,udp,SNMP
+194,udp,IRC
+95,udp,SUPDUP
+29,udp,MSG ICP
+61,tcp,Historically assigned to the NIFTPBased Mail protocol
+62,udp,ACA Services
+94,tcp,Tivoli Object Dispatcher
+987,udp,Microsoft Remote Web Workplace
+28,tcp,HA
+888,udp,IBM
+953,tcp,RNDC
+591,udp,and later
+623,tcp,ASFRMCP
+690,udp,VATP
+657,udp,Remote monitoring and Control
+524,tcp,NCP
+491,tcp,GOGlobal
+525,udp,Timed
+161,tcp,SNMP
+162,udp,SNMPTRAP
+194,tcp,IRC
+63,udp,whois
+95,tcp,SUPDUP
+96,udp,DIXIE Protocol Specification
+29,tcp,MSG ICP
+988,udp,file system
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+888,tcp,IBM
+691,udp,MS
+591,tcp,and later
+690,tcp,VATP
+625,udp,ODProxy
+657,tcp,Remote monitoring and Control
+427,udp,SLP
+525,tcp,Timed
+97,udp,Swift Remote Virtual File Protocol
+162,tcp,SNMPTRAP
+31,udp,MSG Authentication
+63,tcp,whois
+64,udp,Communications Integrator CI
+96,tcp,DIXIE Protocol Specification
+988,tcp,file system
+989,udp,data
+691,tcp,MS
+560,udp,rmonitor
+593,udp,HTTP RPC Ep Map
+625,tcp,ODProxy
+427,tcp,SLP
+65,udp,TACACSDatabase Service
+97,tcp,Swift Remote Virtual File Protocol
+98,udp,TAC News
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator CI
+990,udp,control
+989,tcp,data
+660,udp,macOS Server administration
+560,tcp,rmonitor
+593,tcp,HTTP RPC Ep Map
+264,udp,BGMP
+99,udp,Metagram Relay
+33,udp,Display Support Protocol
+65,tcp,TACACSDatabase Service
+66,udp,Oracle SQLNET
+98,tcp,TAC News
+991,udp,NAS
+990,tcp,control
+760,udp,krbupdate
+660,tcp,macOS Server administration
+694,udp,LinuxHA
+199,udp,SMUX
+264,tcp,BGMP
+67,udp,BOOTP
+99,tcp,Metagram Relay
+1,udp,TCPMUX
+33,tcp,Display Support Protocol
+992,udp,Telnet
+66,tcp,Oracle SQLNET
+991,tcp,NAS
+860,udp,RFC 3720
+760,tcp,krbupdate
+695,udp,IEEEMMSSSL
+563,udp,NNTPS
+694,tcp,LinuxHA
+530,udp,RPC
+464,udp,Kpasswd
+199,tcp,SMUX
+101,udp,NIC
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+2,udp,Management Utility
+993,udp,IMAPS
+860,tcp,RFC 3720
+861,udp,RFC 4656
+695,tcp,IEEEMMSSSL
+564,udp,Plan 9
+563,tcp,NNTPS
+465,udp,URL
+399,udp,Phase V
+530,tcp,RPC
+464,tcp,Kpasswd
+366,udp,ODMR
+300,udp,ThinLinc Web Access
+201,udp,AppleTalk
+135,udp,End Point Mapper
+69,udp,TFTP
+101,tcp,NIC
+102,udp,TSAP
+3,udp,Compression Process
+68,tcp,BOOTP
+2,tcp,Management Utility
+994,udp,IRCS
+993,tcp,IMAPS
+862,udp,RFC 5357
+829,udp,Certificate
+861,tcp,RFC 4656
+631,udp,CUPS
+564,tcp,Plan 9
+433,udp,NNTP
+465,tcp,URL
+399,tcp,Phase V
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+201,tcp,AppleTalk
+135,tcp,End Point Mapper
+37,udp,Time
+69,tcp,TFTP
+70,udp,Gopher
+102,tcp,TSAP
+995,udp,POP3S
+3,tcp,Compression Process
+994,tcp,IRCS
+830,udp,NETCONF
+862,tcp,RFC 5357
+829,tcp,Certificate
+631,tcp,CUPS
+698,udp,OLSR
+500,udp,ISAKMP
+533,udp,netwall
+401,udp,UPS
+433,tcp,NNTP
+434,udp,RFC 5944
+137,udp,NetBIOS Name Service
+170,udp,Network
+104,udp,DICOM also port 11112
+5,udp,Remote Job Entry was historically using socket 5 in its old socket form
+37,tcp,Time
+38,udp,Route Access Protocol
+70,tcp,Gopher
+995,tcp,POP3S
+831,udp,NETCONF
+897,udp,Brocade
+830,tcp,NETCONF
+666,udp,airservng
+698,tcp,OLSR
+500,tcp,ISAKMP
+533,tcp,netwall
+401,tcp,UPS
+434,tcp,RFC 5944
+105,udp,CCSO
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+39,udp,Resource Location Protocol
+104,tcp,DICOM also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+832,udp,NETCONF
+831,tcp,NETCONF
+898,udp,Brocade
+897,tcp,Brocade
+700,udp,EPP
+666,tcp,airservng
+601,udp,Reliable
+502,udp,Modbus
+370,udp,securecast1
+139,udp,NetBIOS
+105,tcp,CCSO
+106,udp,macOS
+138,tcp,NetBIOS
+7,udp,Echo
+39,tcp,Resource Location Protocol
+832,tcp,NETCONF
+898,tcp,Brocade
+833,udp,NETCONF
+700,tcp,EPP
+635,udp,RLZ
+701,udp,LMP
+601,tcp,Reliable
+371,udp,ClearCase
+502,tcp,Modbus
+370,tcp,securecast1
+107,udp,RTelnet
+139,tcp,NetBIOS
+41,udp,Graphics
+106,tcp,macOS
+7,tcp,Echo
+833,tcp,NETCONF
+636,udp,LDAPS
+635,tcp,RLZ
+702,udp,Internet Registry Information Service
+701,tcp,LMP
+504,udp,Citadel
+371,tcp,ClearCase
+107,tcp,RTelnet
+108,udp,SNA
+9,udp,Discard
+41,tcp,Graphics
+42,udp,Host
+802,udp,MODBUSTCP
+604,udp,TUNNEL profile
+636,tcp,LDAPS
+702,tcp,Internet Registry Information Service
+504,tcp,Citadel
+175,udp,VMNET
+109,udp,POP2
+43,udp,WHOIS
+76,udp,Distributed External Object Store
+108,tcp,SNA
+9,tcp,Discard
+42,tcp,Host
+902,udp,VMware
+802,tcp,MODBUSTCP
+604,tcp,TUNNEL profile
+308,udp,Novastor
+209,udp,Quick
+143,udp,IMAP
+175,tcp,VMNET
+109,tcp,POP2
+110,udp,POP3
+11,udp,systat service
+43,tcp,WHOIS
+44,udp,MPM FLAGS Protocol
+76,tcp,Distributed External Object Store
+903,udp,VMware
+902,tcp,VMware
+639,udp,Multicast Source Discovery Protocol
+540,udp,UUCP
+308,tcp,Novastor
+177,udp,XDMCP
+209,tcp,Quick
+210,udp,ANSI
+111,udp,ONC RPC sometimes referred to as Sun RPC
+143,tcp,IMAP
+45,udp,Message Processing Module
+78,udp,vettcp
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+639,tcp,Multicast Source Discovery Protocol
+706,udp,SILC
+540,tcp,UUCP
+475,udp,tcpnethaspsrv
+376,udp,Amiga
+177,tcp,XDMCP
+210,tcp,ANSI
+79,udp,Finger
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,udp,McIDAS
+13,udp,Daytime
+45,tcp,Message Processing Module
+46,udp,MPM
+78,tcp,vettcp
+674,udp,ACAP
+706,tcp,SILC
+641,udp,controllistening
+443,udp,HTTPS
+475,tcp,tcpnethaspsrv
+542,udp,Commerce Applications
+311,udp,officially AppleShare IP Web administration
+376,tcp,Amiga
+179,udp,BGP
+113,udp,auth
+79,tcp,Finger
+80,udp,HTTP
+112,tcp,McIDAS
+13,tcp,Daytime
+46,tcp,MPM
+873,udp,rsync
+543,udp,klogin
+674,tcp,ACAP
+641,tcp,controllistening
+443,tcp,HTTPS
+510,udp,FCP
+542,tcp,Commerce Applications
+444,udp,SNPP
+311,tcp,officially AppleShare IP Web administration
+312,udp,macOS
+213,udp,IPX
+179,tcp,BGP
+81,udp,TorPark
+113,tcp,auth
+15,udp,Previously
+48,udp,Digital Audit Daemon
+80,tcp,HTTP
+808,udp,Microsoft
+873,tcp,rsync
+544,udp,kshell
+543,tcp,klogin
+445,udp,Directory Services
+510,tcp,FCP
+444,tcp,SNPP
+312,tcp,macOS
+213,tcp,IPX
+115,udp,Simple
+49,udp,TACACS Login Host protocol TACACS
+81,tcp,TorPark
+82,udp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+808,tcp,Microsoft
+512,udp,comsat
+544,tcp,kshell
+445,tcp,Directory Services
+83,udp,MIT ML Device
+115,tcp,Simple
+17,udp,QOTD
+49,tcp,TACACS Login Host protocol TACACS
+50,udp,Remote Mail Checking Protocol
+82,tcp,TorPark
+843,udp,Adobe
+711,udp,Cisco
+777,udp,machine
+512,tcp,comsat
+546,udp,DHCPv6
+117,udp,path service
+51,udp,Historically used for Interface Message Processor logical address management
+83,tcp,MIT ML Device
+84,udp,Common Trace Facility
+17,tcp,QOTD
+18,udp,Message
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+712,udp,TBRPF RFC 3684
+711,tcp,Cisco
+777,tcp,machine
+547,udp,DHCPv6
+646,udp,LDP
+514,udp,Syslog
+546,tcp,DHCPv6
+85,udp,MIT ML Device
+117,tcp,path service
+118,udp,SQL
+19,udp,CHARGEN
+51,tcp,Historically used for Interface Message Processor logical address management
+52,udp,XNS
+84,tcp,Common Trace Facility
+18,tcp,Message
+1010,udp,ThinLinc
+712,tcp,TBRPF RFC 3684
+647,udp,DHCP
+548,udp,AFP
+515,udp,LPD
+547,tcp,DHCPv6
+646,tcp,LDP
+383,udp,HP
+514,tcp,Syslog
+350,udp,MATIP
+218,udp,MPP
+119,udp,NNTP
+152,udp,BFTP
+53,udp,DNS
+85,tcp,MIT ML Device
+86,udp,Micro Focus Cobol
+118,tcp,SQL
+19,tcp,CHARGEN
+20,udp,FTP
+52,tcp,XNS
+1010,tcp,ThinLinc
+648,udp,RRP
+647,tcp,DHCP
+548,tcp,AFP
+515,tcp,LPD
+351,udp,MATIP
+383,tcp,HP
+384,udp,A
+318,udp,TSP
+350,tcp,MATIP
+153,udp,SGMP
+218,tcp,MPP
+119,tcp,NNTP
+152,tcp,BFTP
+21,udp,FTP
+53,tcp,DNS
+54,udp,XNS
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+847,udp,DHCP
+648,tcp,RRP
+550,udp,newrwho
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+220,udp,IMAP
+153,tcp,SGMP
+55,udp,ISI Graphics Language
+88,udp,Kerberos
+21,tcp,FTP
+22,udp,SSH
+54,tcp,XNS
+848,udp,GDOI
+847,tcp,DHCP
+782,udp,Conserver
+749,udp,Kerberos
+550,tcp,newrwho
+319,tcp,PTP
+320,udp,PTP
+220,tcp,IMAP
+89,udp,SUMIT Telnet Gateway
+23,udp,Telnet
+55,tcp,ISI Graphics Language
+56,udp,XNS
+88,tcp,Kerberos
+22,tcp,SSH
+981,udp,Remote
+848,tcp,GDOI
+783,udp,SpamAssassin
+684,udp,CORBA
+750,udp,kerberosiv
+782,tcp,Conserver
+749,tcp,Kerberos
+585,udp,IMAPS
+387,udp,AppleTalk Updatebased Routing Protocol
+320,tcp,PTP
+123,udp,NTP
+156,udp,SQL
+89,tcp,SUMIT Telnet Gateway
+90,udp,dotcom
+23,tcp,Telnet
+56,tcp,XNS
+981,tcp,Remote
+751,udp,kerberosmaster
+783,tcp,SpamAssassin
+684,tcp,CORBA
+750,tcp,kerberosiv
+520,udp,RIP
+585,tcp,IMAPS
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,udp,Unidata
+91,udp,MIT Dover Spooler
+123,tcp,NTP
+156,tcp,SQL
+25,udp,SMTP
+58,udp,XNS
+90,tcp,dotcom
+752,udp,kpasswd
+751,tcp,kerberosmaster
+587,udp,No longer preferred see port 465
+653,udp,data
+520,tcp,RIP
+554,udp,RTSP
+521,udp,RIPng
+389,udp,LDAP
+323,udp,Resource
+356,udp,used by Cloanto Amiga Explorer and VMs
+388,tcp,Unidata
+158,udp,DMSP sometimes referred to as Pcmail
+91,tcp,MIT Dover Spooler
+92,udp,Network Printing Protocol
+25,tcp,SMTP
+58,tcp,XNS
+752,tcp,kpasswd
+753,udp,userregserver
+587,tcp,No longer preferred see port 465
+654,udp,MMS
+653,tcp,data
+554,tcp,RTSP
+521,tcp,RIPng
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+93,udp,Device Control Protocol
+126,udp,Formerly Unisys Unitary Login
+158,tcp,DMSP sometimes referred to as Pcmail
+27,udp,NSW User System FE
+92,tcp,Network Printing Protocol
+853,udp,DNS
+688,udp,ApplianceWare Server Appliance Management Protocol
+655,udp,Tinc
+754,udp,krb5prop
+753,tcp,userregserver
+556,udp,Remotefs
+654,tcp,MMS
+259,udp,ESRO
+61,udp,Historically assigned to the NIFTPBased Mail protocol
+93,tcp,Device Control Protocol
+94,udp,Tivoli Object Dispatcher
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+28,udp,HA
+953,udp,RNDC
+853,tcp,DNS
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASFRMCP
+655,tcp,Tinc
+754,tcp,krb5prop
+524,udp,NCP
+556,tcp,Remotefs
+491,udp,GOGlobal
+259,tcp,ESRO
+161,udp,SNMP
+194,udp,IRC
+95,udp,SUPDUP
+29,udp,MSG ICP
+61,tcp,Historically assigned to the NIFTPBased Mail protocol
+62,udp,ACA Services
+94,tcp,Tivoli Object Dispatcher
+987,udp,Microsoft Remote Web Workplace
+28,tcp,HA
+888,udp,IBM
+953,tcp,RNDC
+591,udp,and later
+623,tcp,ASFRMCP
+690,udp,VATP
+657,udp,Remote monitoring and Control
+524,tcp,NCP
+491,tcp,GOGlobal
+525,udp,Timed
+161,tcp,SNMP
+162,udp,SNMPTRAP
+194,tcp,IRC
+63,udp,whois
+95,tcp,SUPDUP
+96,udp,DIXIE Protocol Specification
+29,tcp,MSG ICP
+988,udp,file system
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+888,tcp,IBM
+691,udp,MS
+591,tcp,and later
+690,tcp,VATP
+625,udp,ODProxy
+657,tcp,Remote monitoring and Control
+427,udp,SLP
+525,tcp,Timed
+97,udp,Swift Remote Virtual File Protocol
+162,tcp,SNMPTRAP
+31,udp,MSG Authentication
+63,tcp,whois
+64,udp,Communications Integrator CI
+96,tcp,DIXIE Protocol Specification
+988,tcp,file system
+989,udp,data
+691,tcp,MS
+560,udp,rmonitor
+593,udp,HTTP RPC Ep Map
+625,tcp,ODProxy
+427,tcp,SLP
+65,udp,TACACSDatabase Service
+97,tcp,Swift Remote Virtual File Protocol
+98,udp,TAC News
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator CI
+990,udp,control
+989,tcp,data
+660,udp,macOS Server administration
+560,tcp,rmonitor
+593,tcp,HTTP RPC Ep Map
+264,udp,BGMP
+99,udp,Metagram Relay
+33,udp,Display Support Protocol
+65,tcp,TACACSDatabase Service
+66,udp,Oracle SQLNET
+98,tcp,TAC News
+991,udp,NAS
+990,tcp,control
+760,udp,krbupdate
+660,tcp,macOS Server administration
+694,udp,LinuxHA
+199,udp,SMUX
+264,tcp,BGMP
+67,udp,BOOTP
+99,tcp,Metagram Relay
+1,udp,TCPMUX
+33,tcp,Display Support Protocol
+992,udp,Telnet
+66,tcp,Oracle SQLNET
+991,tcp,NAS
+860,udp,RFC 3720
+760,tcp,krbupdate
+695,udp,IEEEMMSSSL
+563,udp,NNTPS
+694,tcp,LinuxHA
+530,udp,RPC
+464,udp,Kpasswd
+199,tcp,SMUX
+101,udp,NIC
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+2,udp,Management Utility
+993,udp,IMAPS
+860,tcp,RFC 3720
+861,udp,RFC 4656
+695,tcp,IEEEMMSSSL
+564,udp,Plan 9
+563,tcp,NNTPS
+465,udp,URL
+399,udp,Phase V
+530,tcp,RPC
+464,tcp,Kpasswd
+366,udp,ODMR
+300,udp,ThinLinc Web Access
+201,udp,AppleTalk
+135,udp,End Point Mapper
+69,udp,TFTP
+101,tcp,NIC
+102,udp,TSAP
+3,udp,Compression Process
+68,tcp,BOOTP
+2,tcp,Management Utility
+994,udp,IRCS
+993,tcp,IMAPS
+862,udp,RFC 5357
+829,udp,Certificate
+861,tcp,RFC 4656
+631,udp,CUPS
+564,tcp,Plan 9
+433,udp,NNTP
+465,tcp,URL
+399,tcp,Phase V
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+201,tcp,AppleTalk
+135,tcp,End Point Mapper
+37,udp,Time
+69,tcp,TFTP
+70,udp,Gopher
+102,tcp,TSAP
+995,udp,POP3S
+3,tcp,Compression Process
+383,tcp,HP
+350,tcp,MATIP
+862,tcp,RFC 5357
+829,tcp,Certificate
+218,tcp,MPP
+631,tcp,CUPS
+119,tcp,NNTP
+698,udp,OLSR
+152,tcp,BFTP
+53,tcp,DNS
+500,udp,ISAKMP
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+533,udp,netwall
+433,tcp,NNTP
+648,tcp,RRP
+37,tcp,Time
+70,tcp,Gopher
+995,tcp,POP3S
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+830,tcp,NETCONF
+153,tcp,SGMP
+21,tcp,FTP
+500,tcp,ISAKMP
+54,tcp,XNS
+401,tcp,UPS
+434,tcp,RFC 5944
+847,tcp,DHCP
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+104,tcp,DICOM also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+550,tcp,newrwho
+831,tcp,NETCONF
+320,udp,PTP
+897,tcp,Brocade
+220,tcp,IMAP
+55,tcp,ISI Graphics Language
+666,tcp,airservng
+88,tcp,Kerberos
+22,tcp,SSH
+848,tcp,GDOI
+750,udp,kerberosiv
+782,tcp,Conserver
+749,tcp,Kerberos
+105,tcp,CCSO
+138,tcp,NetBIOS
+39,tcp,Resource Location Protocol
+832,tcp,NETCONF
+898,tcp,Brocade
+700,tcp,EPP
+123,udp,NTP
+89,tcp,SUMIT Telnet Gateway
+23,tcp,Telnet
+56,tcp,XNS
+601,tcp,Reliable
+502,tcp,Modbus
+981,tcp,Remote
+370,tcp,securecast1
+783,tcp,SpamAssassin
+684,tcp,CORBA
+139,tcp,NetBIOS
+106,tcp,macOS
+7,tcp,Echo
+387,tcp,AppleTalk Updatebased Routing Protocol
+833,tcp,NETCONF
+635,tcp,RLZ
+123,tcp,NTP
+156,tcp,SQL
+701,tcp,LMP
+90,tcp,dotcom
+371,tcp,ClearCase
+751,tcp,kerberosmaster
+107,tcp,RTelnet
+41,tcp,Graphics
+520,tcp,RIP
+42,udp,Host
+521,udp,RIPng
+388,tcp,Unidata
+636,tcp,LDAPS
+91,tcp,MIT Dover Spooler
+702,tcp,Internet Registry Information Service
+25,tcp,SMTP
+504,tcp,Citadel
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+108,tcp,SNA
+653,tcp,data
+9,tcp,Discard
+42,tcp,Host
+554,tcp,RTSP
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+802,tcp,MODBUSTCP
+604,tcp,TUNNEL profile
+158,tcp,DMSP sometimes referred to as Pcmail
+92,tcp,Network Printing Protocol
+175,tcp,VMNET
+753,tcp,userregserver
+109,tcp,POP2
+43,tcp,WHOIS
+654,tcp,MMS
+76,tcp,Distributed External Object Store
+902,tcp,VMware
+93,tcp,Device Control Protocol
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+308,tcp,Novastor
+853,tcp,DNS
+209,tcp,Quick
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASFRMCP
+655,tcp,Tinc
+143,tcp,IMAP
+754,tcp,krb5prop
+556,tcp,Remotefs
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+259,tcp,ESRO
+161,udp,SNMP
+639,tcp,Multicast Source Discovery Protocol
+540,tcp,UUCP
+94,tcp,Tivoli Object Dispatcher
+28,tcp,HA
+953,tcp,RNDC
+177,tcp,XDMCP
+210,tcp,ANSI
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+45,tcp,Message Processing Module
+524,tcp,NCP
+78,tcp,vettcp
+491,tcp,GOGlobal
+525,udp,Timed
+161,tcp,SNMP
+194,tcp,IRC
+95,tcp,SUPDUP
+706,tcp,SILC
+29,tcp,MSG ICP
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+475,tcp,tcpnethaspsrv
+888,tcp,IBM
+376,tcp,Amiga
+591,tcp,and later
+79,tcp,Finger
+690,tcp,VATP
+112,tcp,McIDAS
+657,tcp,Remote monitoring and Control
+13,tcp,Daytime
+46,tcp,MPM
+162,tcp,SNMPTRAP
+63,tcp,whois
+674,tcp,ACAP
+96,tcp,DIXIE Protocol Specification
+641,tcp,controllistening
+988,tcp,file system
+443,tcp,HTTPS
+542,tcp,Commerce Applications
+311,tcp,officially AppleShare IP Web administration
+691,tcp,MS
+179,tcp,BGP
+113,tcp,auth
+560,udp,rmonitor
+80,tcp,HTTP
+625,tcp,ODProxy
+427,tcp,SLP
+873,tcp,rsync
+97,tcp,Swift Remote Virtual File Protocol
+543,tcp,klogin
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator CI
+510,tcp,FCP
+444,tcp,SNPP
+989,tcp,data
+312,tcp,macOS
+213,tcp,IPX
+81,tcp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+593,tcp,HTTP RPC Ep Map
+808,tcp,Microsoft
+65,tcp,TACACSDatabase Service
+544,tcp,kshell
+98,tcp,TAC News
+445,tcp,Directory Services
+990,tcp,control
+660,tcp,macOS Server administration
+115,tcp,Simple
+49,tcp,TACACS Login Host protocol TACACS
+82,tcp,XFER Utility
+264,tcp,BGMP
+67,udp,BOOTP
+99,tcp,Metagram Relay
+33,tcp,Display Support Protocol
+512,tcp,comsat
+66,tcp,Oracle SQLNET
+991,tcp,NAS
+760,tcp,krbupdate
+83,tcp,MIT ML Device
+694,tcp,LinuxHA
+17,tcp,QOTD
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+711,tcp,Cisco
+199,tcp,SMUX
+777,tcp,machine
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+514,udp,Syslog
+546,tcp,DHCPv6
+860,tcp,RFC 3720
+695,tcp,IEEEMMSSSL
+117,tcp,path service
+563,tcp,NNTPS
+84,tcp,Common Trace Facility
+18,tcp,Message
+530,tcp,RPC
+464,tcp,Kpasswd
+712,tcp,TBRPF RFC 3684
+69,udp,TFTP
+101,tcp,NIC
+547,tcp,DHCPv6
+646,tcp,LDP
+68,tcp,BOOTP
+2,tcp,Management Utility
+514,tcp,Remote Shell rsh remsh
+993,tcp,IMAPS
+861,tcp,RFC 4656
+85,tcp,MIT ML Device
+564,tcp,Plan 9
+118,tcp,SQL
+19,tcp,CHARGEN
+52,tcp,XNS
+465,tcp,URL
+399,tcp,Phase V
+1010,tcp,ThinLinc
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+201,tcp,AppleTalk
+647,tcp,DHCP
+135,tcp,End Point Mapper
+69,tcp,TFTP
+548,tcp,AFP
+102,tcp,TSAP
+515,tcp,LPD
+3,tcp,Compression Process
+383,tcp,HP
+350,tcp,MATIP
+862,tcp,RFC 5357
+829,tcp,Certificate
+218,tcp,MPP
+631,tcp,CUPS
+119,tcp,NNTP
+698,udp,OLSR
+152,tcp,BFTP
+53,tcp,DNS
+500,udp,ISAKMP
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+533,udp,netwall
+433,tcp,NNTP
+648,tcp,RRP
+37,tcp,Time
+70,tcp,Gopher
+995,tcp,POP3S
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+830,tcp,NETCONF
+153,tcp,SGMP
+21,tcp,FTP
+500,tcp,ISAKMP
+54,tcp,XNS
+401,tcp,UPS
+434,tcp,RFC 5944
+847,tcp,DHCP
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+104,tcp,DICOM also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+550,tcp,newrwho
+831,tcp,NETCONF
+320,udp,PTP
+897,tcp,Brocade
+220,tcp,IMAP
+55,tcp,ISI Graphics Language
+666,tcp,airservng
+88,tcp,Kerberos
+22,tcp,SSH
+848,tcp,GDOI
+750,udp,kerberosiv
+782,tcp,Conserver
+749,tcp,Kerberos
+105,tcp,CCSO
+138,tcp,NetBIOS
+39,tcp,Resource Location Protocol
+832,tcp,NETCONF
+898,tcp,Brocade
+700,tcp,EPP
+123,udp,NTP
+89,tcp,SUMIT Telnet Gateway
+23,tcp,Telnet
+56,tcp,XNS
+601,tcp,Reliable
+502,tcp,Modbus
+981,tcp,Remote
+370,tcp,securecast1
+783,tcp,SpamAssassin
+684,tcp,CORBA
+139,tcp,NetBIOS
+106,tcp,macOS
+7,tcp,Echo
+387,tcp,AppleTalk Updatebased Routing Protocol
+833,tcp,NETCONF
+635,tcp,RLZ
+123,tcp,NTP
+156,tcp,SQL
+701,tcp,LMP
+90,tcp,dotcom
+371,tcp,ClearCase
+751,tcp,kerberosmaster
+107,tcp,RTelnet
+41,tcp,Graphics
+520,tcp,RIP
+42,udp,Host
+521,udp,RIPng
+388,tcp,Unidata
+636,tcp,LDAPS
+91,tcp,MIT Dover Spooler
+702,tcp,Internet Registry Information Service
+25,tcp,SMTP
+504,tcp,Citadel
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+108,tcp,SNA
+653,tcp,data
+9,tcp,Discard
+42,tcp,Host
+554,tcp,RTSP
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+802,tcp,MODBUSTCP
+604,tcp,TUNNEL profile
+158,tcp,DMSP sometimes referred to as Pcmail
+92,tcp,Network Printing Protocol
+175,tcp,VMNET
+753,tcp,userregserver
+109,tcp,POP2
+43,tcp,WHOIS
+654,tcp,MMS
+76,tcp,Distributed External Object Store
+902,tcp,VMware
+93,tcp,Device Control Protocol
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+308,tcp,Novastor
+853,tcp,DNS
+209,tcp,Quick
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASFRMCP
+655,tcp,Tinc
+143,tcp,IMAP
+754,tcp,krb5prop
+556,tcp,Remotefs
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+259,tcp,ESRO
+161,udp,SNMP
+639,tcp,Multicast Source Discovery Protocol
+540,tcp,UUCP
+94,tcp,Tivoli Object Dispatcher
+28,tcp,HA
+953,tcp,RNDC
+177,tcp,XDMCP
+210,tcp,ANSI
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+45,tcp,Message Processing Module
+524,tcp,NCP
+78,tcp,vettcp
+491,tcp,GOGlobal
+525,udp,Timed
+161,tcp,SNMP
+194,tcp,IRC
+95,tcp,SUPDUP
+706,tcp,SILC
+29,tcp,MSG ICP
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+475,tcp,tcpnethaspsrv
+888,tcp,IBM
+376,tcp,Amiga
+591,tcp,and later
+79,tcp,Finger
+690,tcp,VATP
+112,tcp,McIDAS
+657,tcp,Remote monitoring and Control
+13,tcp,Daytime
+46,tcp,MPM
+162,tcp,SNMPTRAP
+63,tcp,whois
+674,tcp,ACAP
+96,tcp,DIXIE Protocol Specification
+641,tcp,controllistening
+988,tcp,file system
+443,tcp,HTTPS
+542,tcp,Commerce Applications
+311,tcp,officially AppleShare IP Web administration
+691,tcp,MS
+179,tcp,BGP
+113,tcp,auth
+560,udp,rmonitor
+80,tcp,HTTP
+625,tcp,ODProxy
+427,tcp,SLP
+873,tcp,rsync
+97,tcp,Swift Remote Virtual File Protocol
+543,tcp,klogin
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator CI
+510,tcp,FCP
+444,tcp,SNPP
+989,tcp,data
+312,tcp,macOS
+213,tcp,IPX
+81,tcp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+593,tcp,HTTP RPC Ep Map
+808,tcp,Microsoft
+65,tcp,TACACSDatabase Service
+544,tcp,kshell
+98,tcp,TAC News
+445,tcp,Directory Services
+990,tcp,control
+660,tcp,macOS Server administration
+115,tcp,Simple
+49,tcp,TACACS Login Host protocol TACACS
+82,tcp,XFER Utility
+264,tcp,BGMP
+67,udp,BOOTP
+99,tcp,Metagram Relay
+33,tcp,Display Support Protocol
+512,tcp,comsat
+66,tcp,Oracle SQLNET
+991,tcp,NAS
+760,tcp,krbupdate
+83,tcp,MIT ML Device
+694,tcp,LinuxHA
+17,tcp,QOTD
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+711,tcp,Cisco
+199,tcp,SMUX
+777,tcp,machine
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+514,udp,Syslog
+546,tcp,DHCPv6
+860,tcp,RFC 3720
+695,tcp,IEEEMMSSSL
+117,tcp,path service
+563,tcp,NNTPS
+84,tcp,Common Trace Facility
+18,tcp,Message
+530,tcp,RPC
+464,tcp,Kpasswd
+712,tcp,TBRPF RFC 3684
+69,udp,TFTP
+101,tcp,NIC
+547,tcp,DHCPv6
+646,tcp,LDP
+68,tcp,BOOTP
+2,tcp,Management Utility
+514,tcp,Remote Shell rsh remsh
+993,tcp,IMAPS
+861,tcp,RFC 4656
+85,tcp,MIT ML Device
+564,tcp,Plan 9
+118,tcp,SQL
+19,tcp,CHARGEN
+52,tcp,XNS
+465,tcp,URL
+399,tcp,Phase V
+1010,tcp,ThinLinc
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+201,tcp,AppleTalk
+647,tcp,DHCP
+135,tcp,End Point Mapper
+69,tcp,TFTP
+548,tcp,AFP
+102,tcp,TSAP
+515,tcp,LPD
+3,tcp,Compression Process
+383,tcp,HP
+350,tcp,MATIP
+862,tcp,RFC 5357
+829,tcp,Certificate
+218,tcp,MPP
+631,tcp,CUPS
+119,tcp,NNTP
+698,udp,OLSR
+152,tcp,BFTP
+53,tcp,DNS
+500,udp,ISAKMP
+86,tcp,Micro Focus Cobol
+20,tcp,FTP
+533,udp,netwall
+433,tcp,NNTP
+648,tcp,RRP
+37,tcp,Time
+70,tcp,Gopher
+995,tcp,POP3S
+319,udp,PTP
+351,tcp,MATIP
+384,tcp,A
+318,tcp,TSP
+830,tcp,NETCONF
+153,tcp,SGMP
+21,tcp,FTP
+500,tcp,ISAKMP
+54,tcp,XNS
+401,tcp,UPS
+434,tcp,RFC 5944
+847,tcp,DHCP
+137,tcp,NetBIOS Name Service
+138,udp,NetBIOS
+170,tcp,Network
+104,tcp,DICOM also port 11112
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+38,tcp,Route Access Protocol
+550,tcp,newrwho
+831,tcp,NETCONF
+320,udp,PTP
+897,tcp,Brocade
+220,tcp,IMAP
+55,tcp,ISI Graphics Language
+666,tcp,airservng
+88,tcp,Kerberos
+22,tcp,SSH
+848,tcp,GDOI
+750,udp,kerberosiv
+782,tcp,Conserver
+749,tcp,Kerberos
+105,tcp,CCSO
+138,tcp,NetBIOS
+39,tcp,Resource Location Protocol
+832,tcp,NETCONF
+898,tcp,Brocade
+700,tcp,EPP
+123,udp,NTP
+89,tcp,SUMIT Telnet Gateway
+23,tcp,Telnet
+56,tcp,XNS
+601,tcp,Reliable
+502,tcp,Modbus
+981,tcp,Remote
+370,tcp,securecast1
+783,tcp,SpamAssassin
+684,tcp,CORBA
+139,tcp,NetBIOS
+106,tcp,macOS
+7,tcp,Echo
+387,tcp,AppleTalk Updatebased Routing Protocol
+833,tcp,NETCONF
+635,tcp,RLZ
+123,tcp,NTP
+156,tcp,SQL
+701,tcp,LMP
+90,tcp,dotcom
+371,tcp,ClearCase
+751,tcp,kerberosmaster
+107,tcp,RTelnet
+41,tcp,Graphics
+520,tcp,RIP
+42,udp,Host
+521,udp,RIPng
+388,tcp,Unidata
+636,tcp,LDAPS
+91,tcp,MIT Dover Spooler
+702,tcp,Internet Registry Information Service
+25,tcp,SMTP
+504,tcp,Citadel
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+108,tcp,SNA
+653,tcp,data
+9,tcp,Discard
+42,tcp,Host
+554,tcp,RTSP
+389,tcp,LDAP
+323,tcp,Resource
+356,tcp,used by Cloanto Amiga Explorer and VMs
+802,tcp,MODBUSTCP
+604,tcp,TUNNEL profile
+158,tcp,DMSP sometimes referred to as Pcmail
+92,tcp,Network Printing Protocol
+175,tcp,VMNET
+753,tcp,userregserver
+109,tcp,POP2
+43,tcp,WHOIS
+654,tcp,MMS
+76,tcp,Distributed External Object Store
+902,tcp,VMware
+93,tcp,Device Control Protocol
+126,tcp,Formerly Unisys Unitary Login
+27,tcp,NSW User System FE
+308,tcp,Novastor
+853,tcp,DNS
+209,tcp,Quick
+688,tcp,ApplianceWare Server Appliance Management Protocol
+623,udp,ASFRMCP
+655,tcp,Tinc
+143,tcp,IMAP
+754,tcp,krb5prop
+556,tcp,Remotefs
+110,tcp,POP3
+11,tcp,systat service
+44,tcp,MPM FLAGS Protocol
+903,tcp,VMware
+259,tcp,ESRO
+161,udp,SNMP
+639,tcp,Multicast Source Discovery Protocol
+540,tcp,UUCP
+94,tcp,Tivoli Object Dispatcher
+28,tcp,HA
+953,tcp,RNDC
+177,tcp,XDMCP
+210,tcp,ANSI
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+45,tcp,Message Processing Module
+524,tcp,NCP
+78,tcp,vettcp
+491,tcp,GOGlobal
+525,udp,Timed
+161,tcp,SNMP
+194,tcp,IRC
+95,tcp,SUPDUP
+706,tcp,SILC
+29,tcp,MSG ICP
+62,tcp,ACA Services
+987,tcp,Microsoft Remote Web Workplace
+475,tcp,tcpnethaspsrv
+888,tcp,IBM
+376,tcp,Amiga
+591,tcp,and later
+79,tcp,Finger
+690,tcp,VATP
+112,tcp,McIDAS
+657,tcp,Remote monitoring and Control
+13,tcp,Daytime
+46,tcp,MPM
+162,tcp,SNMPTRAP
+63,tcp,whois
+674,tcp,ACAP
+96,tcp,DIXIE Protocol Specification
+641,tcp,controllistening
+988,tcp,file system
+443,tcp,HTTPS
+542,tcp,Commerce Applications
+311,tcp,officially AppleShare IP Web administration
+691,tcp,MS
+179,tcp,BGP
+113,tcp,auth
+560,udp,rmonitor
+80,tcp,HTTP
+625,tcp,ODProxy
+427,tcp,SLP
+873,tcp,rsync
+97,tcp,Swift Remote Virtual File Protocol
+543,tcp,klogin
+31,tcp,MSG Authentication
+64,tcp,Communications Integrator CI
+510,tcp,FCP
+444,tcp,SNPP
+989,tcp,data
+312,tcp,macOS
+213,tcp,IPX
+81,tcp,TorPark
+15,tcp,Previously
+48,tcp,Digital Audit Daemon
+593,tcp,HTTP RPC Ep Map
+808,tcp,Microsoft
+65,tcp,TACACSDatabase Service
+544,tcp,kshell
+98,tcp,TAC News
+445,tcp,Directory Services
+990,tcp,control
+660,tcp,macOS Server administration
+115,tcp,Simple
+49,tcp,TACACS Login Host protocol TACACS
+82,tcp,XFER Utility
+264,tcp,BGMP
+67,udp,BOOTP
+99,tcp,Metagram Relay
+33,tcp,Display Support Protocol
+512,tcp,comsat
+66,tcp,Oracle SQLNET
+991,tcp,NAS
+760,tcp,krbupdate
+83,tcp,MIT ML Device
+694,tcp,LinuxHA
+17,tcp,QOTD
+50,tcp,Remote Mail Checking Protocol
+843,tcp,Adobe
+711,tcp,Cisco
+199,tcp,SMUX
+777,tcp,machine
+67,tcp,BOOTP
+68,udp,BOOTP
+1,tcp,TCPMUX
+992,tcp,Telnet
+514,udp,Syslog
+546,tcp,DHCPv6
+860,tcp,RFC 3720
+695,tcp,IEEEMMSSSL
+117,tcp,path service
+563,tcp,NNTPS
+84,tcp,Common Trace Facility
+18,tcp,Message
+530,tcp,RPC
+464,tcp,Kpasswd
+712,tcp,TBRPF RFC 3684
+69,udp,TFTP
+101,tcp,NIC
+547,tcp,DHCPv6
+646,tcp,LDP
+68,tcp,BOOTP
+2,tcp,Management Utility
+514,tcp,Remote Shell rsh remsh
+993,tcp,IMAPS
+861,tcp,RFC 4656
+85,tcp,MIT ML Device
+564,tcp,Plan 9
+118,tcp,SQL
+19,tcp,CHARGEN
+52,tcp,XNS
+465,tcp,URL
+399,tcp,Phase V
+1010,tcp,ThinLinc
+366,tcp,ODMR
+300,tcp,ThinLinc Web Access
+201,tcp,AppleTalk
+647,tcp,DHCP
+135,tcp,End Point Mapper
+69,tcp,TFTP
+548,tcp,AFP
+102,tcp,TSAP
+515,tcp,LPD
+3,tcp,Compression Process
+1,tcp,TCPMUX
+
+101,tcp,NIC
+
+1010,tcp,ThinLinc
+
+102,tcp,TSAP
+
+104,tcp,DICOM also port 11112
+
+105,tcp,CCSO
+
+106,tcp,macOS
+
+107,tcp,RTelnet
+
+108,tcp,SNA
+
+109,tcp,POP2
+
+11,tcp,systat service
+
+110,tcp,POP3
+
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+
+112,tcp,McIDAS
+
+113,tcp,auth
+
+115,tcp,Simple
+
+117,tcp,path service
+
+118,tcp,SQL
+
+119,tcp,NNTP
+
+123,tcp,NTP
+
+123,udp,NTP
+
+126,tcp,Formerly Unisys Unitary Login
+
+13,tcp,Daytime
+
+135,tcp,End Point Mapper
+
+137,tcp,NetBIOS Name Service
+
+138,tcp,NetBIOS
+
+138,udp,NetBIOS
+
+139,tcp,NetBIOS
+
+143,tcp,IMAP
+
+15,tcp,Previously
+
+152,tcp,BFTP
+
+153,tcp,SGMP
+
+156,tcp,SQL
+
+158,tcp,DMSP sometimes referred to as Pcmail
+
+161,tcp,SNMP
+
+161,udp,SNMP
+
+162,tcp,SNMPTRAP
+
+17,tcp,QOTD
+
+170,tcp,Network
+
+175,tcp,VMNET
+
+177,tcp,XDMCP
+
+179,tcp,BGP
+
+18,tcp,Message
+
+19,tcp,CHARGEN
+
+194,tcp,IRC
+
+199,tcp,SMUX
+
+2,tcp,Management Utility
+
+20,tcp,FTP
+
+201,tcp,AppleTalk
+
+209,tcp,Quick
+
+21,tcp,FTP
+
+210,tcp,ANSI
+
+213,tcp,IPX
+
+218,tcp,MPP
+
+22,tcp,SSH
+
+220,tcp,IMAP
+
+23,tcp,Telnet
+
+25,tcp,SMTP
+
+259,tcp,ESRO
+
+264,tcp,BGMP
+
+27,tcp,NSW User System FE
+
+28,tcp,HA
+
+29,tcp,MSG ICP
+
+3,tcp,Compression Process
+
+300,tcp,ThinLinc Web Access
+
+308,tcp,Novastor
+
+31,tcp,MSG Authentication
+
+311,tcp,officially AppleShare IP Web administration
+
+312,tcp,macOS
+
+318,tcp,TSP
+
+319,udp,PTP
+
+320,udp,PTP
+
+323,tcp,Resource
+
+33,tcp,Display Support Protocol
+
+350,tcp,MATIP
+
+351,tcp,MATIP
+
+356,tcp,used by Cloanto Amiga Explorer and VMs
+
+366,tcp,ODMR
+
+37,tcp,Time
+
+370,tcp,securecast1
+
+371,tcp,ClearCase
+
+376,tcp,Amiga
+
+38,tcp,Route Access Protocol
+
+383,tcp,HP
+
+384,tcp,A
+
+387,tcp,AppleTalk Updatebased Routing Protocol
+
+388,tcp,Unidata
+
+389,tcp,LDAP
+
+39,tcp,Resource Location Protocol
+
+399,tcp,Phase V
+
+401,tcp,UPS
+
+41,tcp,Graphics
+
+42,tcp,Host
+
+42,udp,Host
+
+427,tcp,SLP
+
+43,tcp,WHOIS
+
+433,tcp,NNTP
+
+434,tcp,RFC 5944
+
+44,tcp,MPM FLAGS Protocol
+
+443,tcp,HTTPS
+
+444,tcp,SNPP
+
+445,tcp,Directory Services
+
+45,tcp,Message Processing Module
+
+46,tcp,MPM
+
+464,tcp,Kpasswd
+
+465,tcp,URL
+
+475,tcp,tcpnethaspsrv
+
+48,tcp,Digital Audit Daemon
+
+49,tcp,TACACS Login Host protocol TACACS
+
+491,tcp,GOGlobal
+
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+
+50,tcp,Remote Mail Checking Protocol
+
+500,tcp,ISAKMP
+
+500,udp,ISAKMP
+
+502,tcp,Modbus
+
+504,tcp,Citadel
+
+510,tcp,FCP
+
+512,tcp,comsat
+
+514,tcp,Remote Shell rsh remsh
+
+514,udp,Syslog
+
+515,tcp,LPD
+
+52,tcp,XNS
+
+520,tcp,RIP
+
+521,udp,RIPng
+
+524,tcp,NCP
+
+525,udp,Timed
+
+53,tcp,DNS
+
+530,tcp,RPC
+
+533,udp,netwall
+
+54,tcp,XNS
+
+540,tcp,UUCP
+
+542,tcp,Commerce Applications
+
+543,tcp,klogin
+
+544,tcp,kshell
+
+546,tcp,DHCPv6
+
+547,tcp,DHCPv6
+
+548,tcp,AFP
+
+55,tcp,ISI Graphics Language
+
+550,tcp,newrwho
+
+554,tcp,RTSP
+
+556,tcp,Remotefs
+
+56,tcp,XNS
+
+560,udp,rmonitor
+
+563,tcp,NNTPS
+
+564,tcp,Plan 9
+
+58,tcp,XNS
+
+587,tcp,No longer preferred see port 465
+
+591,tcp,and later
+
+593,tcp,HTTP RPC Ep Map
+
+601,tcp,Reliable
+
+604,tcp,TUNNEL profile
+
+62,tcp,ACA Services
+
+623,udp,ASFRMCP
+
+625,tcp,ODProxy
+
+63,tcp,whois
+
+631,tcp,CUPS
+
+635,tcp,RLZ
+
+636,tcp,LDAPS
+
+639,tcp,Multicast Source Discovery Protocol
+
+64,tcp,Communications Integrator CI
+
+641,tcp,controllistening
+
+646,tcp,LDP
+
+647,tcp,DHCP
+
+648,tcp,RRP
+
+65,tcp,TACACSDatabase Service
+
+653,tcp,data
+
+654,tcp,MMS
+
+655,tcp,Tinc
+
+657,tcp,Remote monitoring and Control
+
+66,tcp,Oracle SQLNET
+
+660,tcp,macOS Server administration
+
+666,tcp,airservng
+
+67,tcp,BOOTP
+
+67,udp,BOOTP
+
+674,tcp,ACAP
+
+68,tcp,BOOTP
+
+68,udp,BOOTP
+
+684,tcp,CORBA
+
+688,tcp,ApplianceWare Server Appliance Management Protocol
+
+69,tcp,TFTP
+
+69,udp,TFTP
+
+690,tcp,VATP
+
+691,tcp,MS
+
+694,tcp,LinuxHA
+
+695,tcp,IEEEMMSSSL
+
+698,udp,OLSR
+
+7,tcp,Echo
+
+70,tcp,Gopher
+
+700,tcp,EPP
+
+701,tcp,LMP
+
+702,tcp,Internet Registry Information Service
+
+706,tcp,SILC
+
+711,tcp,Cisco
+
+712,tcp,TBRPF RFC 3684
+
+749,tcp,Kerberos
+
+750,udp,kerberosiv
+
+751,tcp,kerberosmaster
+
+753,tcp,userregserver
+
+754,tcp,krb5prop
+
+76,tcp,Distributed External Object Store
+
+760,tcp,krbupdate
+
+777,tcp,machine
+
+78,tcp,vettcp
+
+782,tcp,Conserver
+
+783,tcp,SpamAssassin
+
+79,tcp,Finger
+
+80,tcp,HTTP
+
+802,tcp,MODBUSTCP
+
+808,tcp,Microsoft
+
+81,tcp,TorPark
+
+82,tcp,XFER Utility
+
+829,tcp,Certificate
+
+83,tcp,MIT ML Device
+
+830,tcp,NETCONF
+
+831,tcp,NETCONF
+
+832,tcp,NETCONF
+
+833,tcp,NETCONF
+
+84,tcp,Common Trace Facility
+
+843,tcp,Adobe
+
+847,tcp,DHCP
+
+848,tcp,GDOI
+
+85,tcp,MIT ML Device
+
+853,tcp,DNS
+
+86,tcp,Micro Focus Cobol
+
+860,tcp,RFC 3720
+
+861,tcp,RFC 4656
+
+862,tcp,RFC 5357
+
+873,tcp,rsync
+
+88,tcp,Kerberos
+
+888,tcp,IBM
+
+89,tcp,SUMIT Telnet Gateway
+
+897,tcp,Brocade
+
+898,tcp,Brocade
+
+9,tcp,Discard
+
+90,tcp,dotcom
+
+902,tcp,VMware
+
+903,tcp,VMware
+
+91,tcp,MIT Dover Spooler
+
+92,tcp,Network Printing Protocol
+
+93,tcp,Device Control Protocol
+
+94,tcp,Tivoli Object Dispatcher
+
+95,tcp,SUPDUP
+
+953,tcp,RNDC
+
+96,tcp,DIXIE Protocol Specification
+
+97,tcp,Swift Remote Virtual File Protocol
+
+98,tcp,TAC News
+
+981,tcp,Remote
+
+987,tcp,Microsoft Remote Web Workplace
+
+988,tcp,file system
+
+989,tcp,data
+
+99,tcp,Metagram Relay
+
+990,tcp,control
+
+991,tcp,NAS
+
+992,tcp,Telnet
+
+993,tcp,IMAPS
+
+995,tcp,POP3S
+
+1,tcp,TCPMUX
+101,tcp,NIC
+1010,tcp,ThinLinc
+102,tcp,TSAP
+104,tcp,DICOM also port 11112
+105,tcp,CCSO
+106,tcp,macOS
+107,tcp,RTelnet
+108,tcp,SNA
+109,tcp,POP2
+11,tcp,systat service
+110,tcp,POP3
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,tcp,McIDAS
+113,tcp,auth
+115,tcp,Simple
+117,tcp,path service
+118,tcp,SQL
+119,tcp,NNTP
+123,tcp,NTP
+123,udp,NTP
+126,tcp,Formerly Unisys Unitary Login
+13,tcp,Daytime
+135,tcp,End Point Mapper
+137,tcp,NetBIOS Name Service
+138,tcp,NetBIOS
+138,udp,NetBIOS
+139,tcp,NetBIOS
+143,tcp,IMAP
+15,tcp,Previously
+152,tcp,BFTP
+153,tcp,SGMP
+156,tcp,SQL
+158,tcp,DMSP sometimes referred to as Pcmail
+161,tcp,SNMP
+161,udp,SNMP
+162,tcp,SNMPTRAP
+17,tcp,QOTD
+170,tcp,Network
+175,tcp,VMNET
+177,tcp,XDMCP
+179,tcp,BGP
+18,tcp,Message
+19,tcp,CHARGEN
+194,tcp,IRC
+199,tcp,SMUX
+2,tcp,Management Utility
+20,tcp,FTP
+201,tcp,AppleTalk
+209,tcp,Quick
+21,tcp,FTP
+210,tcp,ANSI
+213,tcp,IPX
+218,tcp,MPP
+22,tcp,SSH
+220,tcp,IMAP
+23,tcp,Telnet
+25,tcp,SMTP
+259,tcp,ESRO
+264,tcp,BGMP
+27,tcp,NSW User System FE
+28,tcp,HA
+29,tcp,MSG ICP
+3,tcp,Compression Process
+300,tcp,ThinLinc Web Access
+308,tcp,Novastor
+31,tcp,MSG Authentication
+311,tcp,officially AppleShare IP Web administration
+312,tcp,macOS
+318,tcp,TSP
+319,udp,PTP
+320,udp,PTP
+323,tcp,Resource
+33,tcp,Display Support Protocol
+350,tcp,MATIP
+351,tcp,MATIP
+356,tcp,used by Cloanto Amiga Explorer and VMs
+366,tcp,ODMR
+37,tcp,Time
+370,tcp,securecast1
+371,tcp,ClearCase
+376,tcp,Amiga
+38,tcp,Route Access Protocol
+383,tcp,HP
+384,tcp,A
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,tcp,Unidata
+389,tcp,LDAP
+39,tcp,Resource Location Protocol
+399,tcp,Phase V
+401,tcp,UPS
+41,tcp,Graphics
+42,tcp,Host
+42,udp,Host
+427,tcp,SLP
+43,tcp,WHOIS
+433,tcp,NNTP
+434,tcp,RFC 5944
+44,tcp,MPM FLAGS Protocol
+443,tcp,HTTPS
+444,tcp,SNPP
+445,tcp,Directory Services
+45,tcp,Message Processing Module
+46,tcp,MPM
+464,tcp,Kpasswd
+465,tcp,URL
+475,tcp,tcpnethaspsrv
+48,tcp,Digital Audit Daemon
+49,tcp,TACACS Login Host protocol TACACS
+491,tcp,GOGlobal
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+50,tcp,Remote Mail Checking Protocol
+500,tcp,ISAKMP
+500,udp,ISAKMP
+502,tcp,Modbus
+504,tcp,Citadel
+510,tcp,FCP
+512,tcp,comsat
+514,tcp,Remote Shell rsh remsh
+514,udp,Syslog
+515,tcp,LPD
+52,tcp,XNS
+520,tcp,RIP
+521,udp,RIPng
+524,tcp,NCP
+525,udp,Timed
+53,tcp,DNS
+530,tcp,RPC
+533,udp,netwall
+54,tcp,XNS
+540,tcp,UUCP
+542,tcp,Commerce Applications
+543,tcp,klogin
+544,tcp,kshell
+546,tcp,DHCPv6
+547,tcp,DHCPv6
+548,tcp,AFP
+55,tcp,ISI Graphics Language
+550,tcp,newrwho
+554,tcp,RTSP
+556,tcp,Remotefs
+56,tcp,XNS
+560,udp,rmonitor
+563,tcp,NNTPS
+564,tcp,Plan 9
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+591,tcp,and later
+593,tcp,HTTP RPC Ep Map
+601,tcp,Reliable
+604,tcp,TUNNEL profile
+62,tcp,ACA Services
+623,udp,ASFRMCP
+625,tcp,ODProxy
+63,tcp,whois
+631,tcp,CUPS
+635,tcp,RLZ
+636,tcp,LDAPS
+639,tcp,Multicast Source Discovery Protocol
+64,tcp,Communications Integrator CI
+641,tcp,controllistening
+646,tcp,LDP
+647,tcp,DHCP
+648,tcp,RRP
+65,tcp,TACACSDatabase Service
+653,tcp,data
+654,tcp,MMS
+655,tcp,Tinc
+657,tcp,Remote monitoring and Control
+66,tcp,Oracle SQLNET
+660,tcp,macOS Server administration
+666,tcp,airservng
+67,tcp,BOOTP
+67,udp,BOOTP
+674,tcp,ACAP
+68,tcp,BOOTP
+68,udp,BOOTP
+684,tcp,CORBA
+688,tcp,ApplianceWare Server Appliance Management Protocol
+69,tcp,TFTP
+69,udp,TFTP
+690,tcp,VATP
+691,tcp,MS
+694,tcp,LinuxHA
+695,tcp,IEEEMMSSSL
+698,udp,OLSR
+7,tcp,Echo
+70,tcp,Gopher
+700,tcp,EPP
+701,tcp,LMP
+702,tcp,Internet Registry Information Service
+706,tcp,SILC
+711,tcp,Cisco
+712,tcp,TBRPF RFC 3684
+749,tcp,Kerberos
+750,udp,kerberosiv
+751,tcp,kerberosmaster
+753,tcp,userregserver
+754,tcp,krb5prop
+76,tcp,Distributed External Object Store
+760,tcp,krbupdate
+777,tcp,machine
+78,tcp,vettcp
+782,tcp,Conserver
+783,tcp,SpamAssassin
+79,tcp,Finger
+80,tcp,HTTP
+802,tcp,MODBUSTCP
+808,tcp,Microsoft
+81,tcp,TorPark
+82,tcp,XFER Utility
+829,tcp,Certificate
+83,tcp,MIT ML Device
+830,tcp,NETCONF
+831,tcp,NETCONF
+832,tcp,NETCONF
+833,tcp,NETCONF
+84,tcp,Common Trace Facility
+843,tcp,Adobe
+847,tcp,DHCP
+848,tcp,GDOI
+85,tcp,MIT ML Device
+853,tcp,DNS
+86,tcp,Micro Focus Cobol
+860,tcp,RFC 3720
+861,tcp,RFC 4656
+862,tcp,RFC 5357
+873,tcp,rsync
+88,tcp,Kerberos
+888,tcp,IBM
+89,tcp,SUMIT Telnet Gateway
+897,tcp,Brocade
+898,tcp,Brocade
+9,tcp,Discard
+90,tcp,dotcom
+902,tcp,VMware
+903,tcp,VMware
+91,tcp,MIT Dover Spooler
+92,tcp,Network Printing Protocol
+93,tcp,Device Control Protocol
+94,tcp,Tivoli Object Dispatcher
+95,tcp,SUPDUP
+953,tcp,RNDC
+96,tcp,DIXIE Protocol Specification
+97,tcp,Swift Remote Virtual File Protocol
+98,tcp,TAC News
+981,tcp,Remote
+987,tcp,Microsoft Remote Web Workplace
+988,tcp,file system
+989,tcp,data
+99,tcp,Metagram Relay
+990,tcp,control
+991,tcp,NAS
+992,tcp,Telnet
+993,tcp,IMAPS
+995,tcp,POP3S
+1,tcp,TCPMUX
+101,tcp,NIC
+1010,tcp,ThinLinc
+1010,udp,ThinLinc
+102,tcp,TSAP
+104,tcp,DICOM also port 11112
+105,tcp,CCSO
+106,tcp,macOS
+107,tcp,RTelnet
+108,tcp,SNA
+109,tcp,POP2
+11,tcp,systat service
+110,tcp,POP3
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,tcp,McIDAS
+113,tcp,auth
+115,tcp,Simple
+117,tcp,path service
+118,tcp,SQL
+119,tcp,NNTP
+123,tcp,NTP
+123,udp,NTP
+126,tcp,Formerly Unisys Unitary Login
+13,tcp,Daytime
+135,tcp,End Point Mapper
+137,tcp,NetBIOS Name Service
+138,tcp,NetBIOS
+138,udp,NetBIOS
+139,tcp,NetBIOS
+143,tcp,IMAP
+15,tcp,Previously
+152,tcp,BFTP
+153,tcp,SGMP
+156,tcp,SQL
+158,tcp,DMSP sometimes referred to as Pcmail
+161,tcp,SNMP
+161,udp,SNMP
+162,tcp,SNMPTRAP
+17,tcp,QOTD
+170,tcp,Network
+175,tcp,VMNET
+177,tcp,XDMCP
+179,tcp,BGP
+18,tcp,Message
+19,tcp,CHARGEN
+194,tcp,IRC
+199,tcp,SMUX
+2,tcp,Management Utility
+20,tcp,FTP
+201,tcp,AppleTalk
+209,tcp,Quick
+21,tcp,FTP
+210,tcp,ANSI
+213,tcp,IPX
+218,tcp,MPP
+22,tcp,SSH
+220,tcp,IMAP
+23,tcp,Telnet
+25,tcp,SMTP
+259,tcp,ESRO
+264,tcp,BGMP
+27,tcp,NSW User System FE
+28,tcp,HA
+28,udp,HA
+29,tcp,MSG ICP
+3,tcp,Compression Process
+300,tcp,ThinLinc Web Access
+300,udp,ThinLinc Web Access
+308,tcp,Novastor
+31,tcp,MSG Authentication
+311,tcp,officially AppleShare IP Web administration
+312,tcp,macOS
+318,tcp,TSP
+319,udp,PTP
+320,udp,PTP
+323,tcp,Resource
+33,tcp,Display Support Protocol
+350,tcp,MATIP
+351,tcp,MATIP
+356,tcp,used by Cloanto Amiga Explorer and VMs
+366,tcp,ODMR
+37,tcp,Time
+370,tcp,securecast1
+371,tcp,ClearCase
+376,tcp,Amiga
+38,tcp,Route Access Protocol
+383,tcp,HP
+384,tcp,A
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,tcp,Unidata
+389,tcp,LDAP
+39,tcp,Resource Location Protocol
+399,tcp,Phase V
+401,tcp,UPS
+41,tcp,Graphics
+42,tcp,Host
+42,udp,Host
+427,tcp,SLP
+43,tcp,WHOIS
+433,tcp,NNTP
+434,tcp,RFC 5944
+44,tcp,MPM FLAGS Protocol
+443,tcp,HTTPS
+444,tcp,SNPP
+445,tcp,Directory Services
+45,tcp,Message Processing Module
+46,tcp,MPM
+464,tcp,Kpasswd
+465,tcp,URL
+475,tcp,tcpnethaspsrv
+48,tcp,Digital Audit Daemon
+49,tcp,TACACS Login Host protocol TACACS
+491,tcp,GOGlobal
+491,udp,GOGlobal
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+50,tcp,Remote Mail Checking Protocol
+500,tcp,ISAKMP
+500,udp,ISAKMP
+502,tcp,Modbus
+504,tcp,Citadel
+510,tcp,FCP
+512,tcp,comsat
+514,tcp,Remote Shell rsh remsh
+514,udp,Syslog
+515,tcp,LPD
+52,tcp,XNS
+520,tcp,RIP
+521,udp,RIPng
+524,tcp,NCP
+525,udp,Timed
+53,tcp,DNS
+530,tcp,RPC
+533,udp,netwall
+54,tcp,XNS
+540,tcp,UUCP
+542,tcp,Commerce Applications
+543,tcp,klogin
+544,tcp,kshell
+546,tcp,DHCPv6
+547,tcp,DHCPv6
+548,tcp,AFP
+55,tcp,ISI Graphics Language
+550,tcp,newrwho
+554,tcp,RTSP
+556,tcp,Remotefs
+56,tcp,XNS
+560,udp,rmonitor
+563,tcp,NNTPS
+564,tcp,Plan 9
+564,udp,Plan 9
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+591,tcp,and later
+593,tcp,HTTP RPC Ep Map
+601,tcp,Reliable
+604,tcp,TUNNEL profile
+62,tcp,ACA Services
+623,udp,ASFRMCP
+625,tcp,ODProxy
+63,tcp,whois
+631,tcp,CUPS
+631,udp,CUPS
+635,tcp,RLZ
+636,tcp,LDAPS
+639,tcp,Multicast Source Discovery Protocol
+64,tcp,Communications Integrator CI
+641,tcp,controllistening
+646,tcp,LDP
+647,tcp,DHCP
+648,tcp,RRP
+65,tcp,TACACSDatabase Service
+653,tcp,data
+654,tcp,MMS
+655,tcp,Tinc
+657,tcp,Remote monitoring and Control
+66,tcp,Oracle SQLNET
+660,tcp,macOS Server administration
+666,tcp,airservng
+666,udp,airservng
+67,tcp,BOOTP
+67,udp,BOOTP
+674,tcp,ACAP
+68,tcp,BOOTP
+68,udp,BOOTP
+684,tcp,CORBA
+688,tcp,ApplianceWare Server Appliance Management Protocol
+69,tcp,TFTP
+69,udp,TFTP
+690,tcp,VATP
+691,tcp,MS
+694,tcp,LinuxHA
+695,tcp,IEEEMMSSSL
+698,udp,OLSR
+7,tcp,Echo
+70,tcp,Gopher
+700,tcp,EPP
+701,tcp,LMP
+702,tcp,Internet Registry Information Service
+706,tcp,SILC
+711,tcp,Cisco
+712,tcp,TBRPF RFC 3684
+749,tcp,Kerberos
+750,udp,kerberosiv
+751,tcp,kerberosmaster
+751,udp,kerberosmaster
+753,tcp,userregserver
+753,udp,userregserver
+754,tcp,krb5prop
+754,udp,krb5prop
+76,tcp,Distributed External Object Store
+760,tcp,krbupdate
+760,udp,krbupdate
+777,tcp,machine
+777,udp,machine
+78,tcp,vettcp
+782,tcp,Conserver
+782,udp,Conserver
+783,tcp,SpamAssassin
+783,udp,SpamAssassin
+79,tcp,Finger
+80,tcp,HTTP
+802,tcp,MODBUSTCP
+808,tcp,Microsoft
+808,udp,Microsoft
+81,tcp,TorPark
+81,udp,TorPark
+82,tcp,XFER Utility
+829,tcp,Certificate
+83,tcp,MIT ML Device
+830,tcp,NETCONF
+831,tcp,NETCONF
+832,tcp,NETCONF
+833,tcp,NETCONF
+84,tcp,Common Trace Facility
+843,tcp,Adobe
+843,udp,Adobe
+847,tcp,DHCP
+848,tcp,GDOI
+85,tcp,MIT ML Device
+853,tcp,DNS
+86,tcp,Micro Focus Cobol
+860,tcp,RFC 3720
+861,tcp,RFC 4656
+862,tcp,RFC 5357
+873,tcp,rsync
+88,tcp,Kerberos
+888,tcp,IBM
+888,udp,IBM
+89,tcp,SUMIT Telnet Gateway
+897,tcp,Brocade
+897,udp,Brocade
+898,tcp,Brocade
+898,udp,Brocade
+9,tcp,Discard
+90,tcp,dotcom
+90,udp,dotcom
+902,tcp,VMware
+902,udp,VMware
+903,tcp,VMware
+903,udp,VMware
+91,tcp,MIT Dover Spooler
+92,tcp,Network Printing Protocol
+93,tcp,Device Control Protocol
+94,tcp,Tivoli Object Dispatcher
+95,tcp,SUPDUP
+953,tcp,RNDC
+96,tcp,DIXIE Protocol Specification
+97,tcp,Swift Remote Virtual File Protocol
+98,tcp,TAC News
+981,tcp,Remote
+981,udp,Remote
+987,tcp,Microsoft Remote Web Workplace
+987,udp,Microsoft Remote Web Workplace
+988,tcp,file system
+988,udp,file system
+989,tcp,data
+99,tcp,Metagram Relay
+990,tcp,control
+991,tcp,NAS
+992,tcp,Telnet
+993,tcp,IMAPS
+995,tcp,POP3S
+1,tcp,TCPMUX
+101,tcp,NIC
+1010,tcp,ThinLinc
+1010,udp,ThinLinc
+102,tcp,TSAP
+104,tcp,DICOM also port 11112
+105,tcp,CCSO
+106,tcp,macOS
+107,tcp,RTelnet
+108,tcp,SNA
+109,tcp,POP2
+11,tcp,systat service
+110,tcp,POP3
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,tcp,McIDAS
+113,tcp,auth
+115,tcp,Simple
+117,tcp,path service
+118,tcp,SQL
+119,tcp,NNTP
+123,tcp,NTP
+123,udp,NTP
+126,tcp,Formerly Unisys Unitary Login
+13,tcp,Daytime
+135,tcp,End Point Mapper
+137,tcp,NetBIOS Name Service
+138,tcp,NetBIOS
+138,udp,NetBIOS
+139,tcp,NetBIOS
+143,tcp,IMAP
+15,tcp,Previously
+152,tcp,BFTP
+153,tcp,SGMP
+156,tcp,SQL
+158,tcp,DMSP sometimes referred to as Pcmail
+161,tcp,SNMP
+161,udp,SNMP
+162,tcp,SNMPTRAP
+17,tcp,QOTD
+170,tcp,Network
+175,tcp,VMNET
+177,tcp,XDMCP
+179,tcp,BGP
+18,tcp,Message
+19,tcp,CHARGEN
+194,tcp,IRC
+199,tcp,SMUX
+2,tcp,Management Utility
+20,tcp,FTP
+201,tcp,AppleTalk
+209,tcp,Quick
+21,tcp,FTP
+210,tcp,ANSI
+213,tcp,IPX
+218,tcp,MPP
+22,tcp,SSH
+220,tcp,IMAP
+23,tcp,Telnet
+25,tcp,SMTP
+259,tcp,ESRO
+264,tcp,BGMP
+27,tcp,NSW User System FE
+28,tcp,HA
+28,udp,HA
+29,tcp,MSG ICP
+3,tcp,Compression Process
+300,tcp,ThinLinc Web Access
+300,udp,ThinLinc Web Access
+308,tcp,Novastor
+31,tcp,MSG Authentication
+311,tcp,officially AppleShare IP Web administration
+312,tcp,macOS
+318,tcp,TSP
+319,udp,PTP
+320,udp,PTP
+323,tcp,Resource
+33,tcp,Display Support Protocol
+350,tcp,MATIP
+351,tcp,MATIP
+356,tcp,used by Cloanto Amiga Explorer and VMs
+366,tcp,ODMR
+37,tcp,Time
+370,tcp,securecast1
+371,tcp,ClearCase
+376,tcp,Amiga
+38,tcp,Route Access Protocol
+383,tcp,HP
+384,tcp,A
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,tcp,Unidata
+389,tcp,LDAP
+39,tcp,Resource Location Protocol
+399,tcp,Phase V
+401,tcp,UPS
+41,tcp,Graphics
+42,tcp,Host
+42,udp,Host
+427,tcp,SLP
+43,tcp,WHOIS
+433,tcp,NNTP
+434,tcp,RFC 5944
+44,tcp,MPM FLAGS Protocol
+443,tcp,HTTPS
+444,tcp,SNPP
+445,tcp,Directory Services
+45,tcp,Message Processing Module
+46,tcp,MPM
+464,tcp,Kpasswd
+465,tcp,URL
+475,tcp,tcpnethaspsrv
+48,tcp,Digital Audit Daemon
+49,tcp,TACACS Login Host protocol TACACS
+491,tcp,GOGlobal
+491,udp,GOGlobal
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+50,tcp,Remote Mail Checking Protocol
+500,tcp,ISAKMP
+500,udp,ISAKMP
+502,tcp,Modbus
+504,tcp,Citadel
+510,tcp,FCP
+512,tcp,comsat
+514,tcp,Remote Shell rsh remsh
+514,udp,Syslog
+515,tcp,LPD
+52,tcp,XNS
+520,tcp,RIP
+521,udp,RIPng
+524,tcp,NCP
+525,udp,Timed
+53,tcp,DNS
+530,tcp,RPC
+533,udp,netwall
+54,tcp,XNS
+540,tcp,UUCP
+542,tcp,Commerce Applications
+543,tcp,klogin
+544,tcp,kshell
+546,tcp,DHCPv6
+547,tcp,DHCPv6
+548,tcp,AFP
+55,tcp,ISI Graphics Language
+550,tcp,newrwho
+554,tcp,RTSP
+556,tcp,Remotefs
+56,tcp,XNS
+560,udp,rmonitor
+563,tcp,NNTPS
+564,tcp,Plan 9
+564,udp,Plan 9
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+591,tcp,and later
+593,tcp,HTTP RPC Ep Map
+601,tcp,Reliable
+604,tcp,TUNNEL profile
+62,tcp,ACA Services
+623,udp,ASFRMCP
+625,tcp,ODProxy
+63,tcp,whois
+631,tcp,CUPS
+631,udp,CUPS
+635,tcp,RLZ
+636,tcp,LDAPS
+639,tcp,Multicast Source Discovery Protocol
+64,tcp,Communications Integrator CI
+641,tcp,controllistening
+646,tcp,LDP
+647,tcp,DHCP
+648,tcp,RRP
+65,tcp,TACACSDatabase Service
+653,tcp,data
+654,tcp,MMS
+655,tcp,Tinc
+657,tcp,Remote monitoring and Control
+66,tcp,Oracle SQLNET
+660,tcp,macOS Server administration
+666,tcp,airservng
+666,udp,airservng
+67,tcp,BOOTP
+67,udp,BOOTP
+674,tcp,ACAP
+68,tcp,BOOTP
+68,udp,BOOTP
+684,tcp,CORBA
+688,tcp,ApplianceWare Server Appliance Management Protocol
+69,tcp,TFTP
+69,udp,TFTP
+690,tcp,VATP
+691,tcp,MS
+694,tcp,LinuxHA
+695,tcp,IEEEMMSSSL
+698,udp,OLSR
+7,tcp,Echo
+70,tcp,Gopher
+700,tcp,EPP
+701,tcp,LMP
+702,tcp,Internet Registry Information Service
+706,tcp,SILC
+711,tcp,Cisco
+712,tcp,TBRPF RFC 3684
+749,tcp,Kerberos
+750,udp,kerberosiv
+751,tcp,kerberosmaster
+751,udp,kerberosmaster
+753,tcp,userregserver
+753,udp,userregserver
+754,tcp,krb5prop
+754,udp,krb5prop
+76,tcp,Distributed External Object Store
+760,tcp,krbupdate
+760,udp,krbupdate
+777,tcp,machine
+777,udp,machine
+78,tcp,vettcp
+782,tcp,Conserver
+782,udp,Conserver
+783,tcp,SpamAssassin
+783,udp,SpamAssassin
+79,tcp,Finger
+80,tcp,HTTP
+802,tcp,MODBUSTCP
+808,tcp,Microsoft
+808,udp,Microsoft
+81,tcp,TorPark
+81,udp,TorPark
+82,tcp,XFER Utility
+829,tcp,Certificate
+83,tcp,MIT ML Device
+830,tcp,NETCONF
+831,tcp,NETCONF
+832,tcp,NETCONF
+833,tcp,NETCONF
+84,tcp,Common Trace Facility
+843,tcp,Adobe
+843,udp,Adobe
+847,tcp,DHCP
+848,tcp,GDOI
+85,tcp,MIT ML Device
+853,tcp,DNS
+86,tcp,Micro Focus Cobol
+860,tcp,RFC 3720
+861,tcp,RFC 4656
+862,tcp,RFC 5357
+873,tcp,rsync
+88,tcp,Kerberos
+888,tcp,IBM
+888,udp,IBM
+89,tcp,SUMIT Telnet Gateway
+897,tcp,Brocade
+897,udp,Brocade
+898,tcp,Brocade
+898,udp,Brocade
+9,tcp,Discard
+90,tcp,dotcom
+90,udp,dotcom
+902,tcp,VMware
+902,udp,VMware
+903,tcp,VMware
+903,udp,VMware
+91,tcp,MIT Dover Spooler
+92,tcp,Network Printing Protocol
+93,tcp,Device Control Protocol
+94,tcp,Tivoli Object Dispatcher
+95,tcp,SUPDUP
+953,tcp,RNDC
+96,tcp,DIXIE Protocol Specification
+97,tcp,Swift Remote Virtual File Protocol
+98,tcp,TAC News
+981,tcp,Remote
+981,udp,Remote
+987,tcp,Microsoft Remote Web Workplace
+987,udp,Microsoft Remote Web Workplace
+988,tcp,file system
+988,udp,file system
+989,tcp,data
+99,tcp,Metagram Relay
+990,tcp,control
+991,tcp,NAS
+992,tcp,Telnet
+993,tcp,IMAPS
+995,tcp,POP3S
+1,tcp,TCPMUX
+101,tcp,NIC
+1010,tcp,ThinLinc
+1010,udp,ThinLinc
+102,tcp,TSAP
+104,tcp,DICOM also port 11112
+105,tcp,CCSO
+106,tcp,macOS
+107,tcp,RTelnet
+108,tcp,SNA
+109,tcp,POP2
+11,tcp,systat service
+110,tcp,POP3
+111,tcp,ONC RPC sometimes referred to as Sun RPC
+112,tcp,McIDAS
+113,tcp,auth
+115,tcp,Simple
+117,tcp,path service
+118,tcp,SQL
+119,tcp,NNTP
+123,tcp,NTP
+123,udp,NTP
+126,tcp,Formerly Unisys Unitary Login
+13,tcp,Daytime
+135,tcp,End Point Mapper
+137,tcp,NetBIOS Name Service
+138,tcp,NetBIOS
+138,udp,NetBIOS
+139,tcp,NetBIOS
+143,tcp,IMAP
+15,tcp,Previously
+152,tcp,BFTP
+153,tcp,SGMP
+156,tcp,SQL
+158,tcp,DMSP sometimes referred to as Pcmail
+161,tcp,SNMP
+161,udp,SNMP
+162,tcp,SNMPTRAP
+17,tcp,QOTD
+170,tcp,Network
+175,tcp,VMNET
+177,tcp,XDMCP
+179,tcp,BGP
+18,tcp,Message
+19,tcp,CHARGEN
+194,tcp,IRC
+199,tcp,SMUX
+2,tcp,Management Utility
+20,tcp,FTP
+201,tcp,AppleTalk
+209,tcp,Quick
+21,tcp,FTP
+210,tcp,ANSI
+213,tcp,IPX
+218,tcp,MPP
+22,tcp,SSH
+220,tcp,IMAP
+23,tcp,Telnet
+25,tcp,SMTP
+259,tcp,ESRO
+264,tcp,BGMP
+27,tcp,NSW User System FE
+28,tcp,HA
+28,udp,HA
+29,tcp,MSG ICP
+3,tcp,Compression Process
+300,tcp,ThinLinc Web Access
+300,udp,ThinLinc Web Access
+308,tcp,Novastor
+31,tcp,MSG Authentication
+311,tcp,officially AppleShare IP Web administration
+312,tcp,macOS
+318,tcp,TSP
+319,udp,PTP
+320,udp,PTP
+323,tcp,Resource
+33,tcp,Display Support Protocol
+350,tcp,MATIP
+351,tcp,MATIP
+356,tcp,used by Cloanto Amiga Explorer and VMs
+366,tcp,ODMR
+37,tcp,Time
+370,tcp,securecast1
+371,tcp,ClearCase
+376,tcp,Amiga
+38,tcp,Route Access Protocol
+383,tcp,HP
+384,tcp,A
+387,tcp,AppleTalk Updatebased Routing Protocol
+388,tcp,Unidata
+389,tcp,LDAP
+39,tcp,Resource Location Protocol
+399,tcp,Phase V
+401,tcp,UPS
+41,tcp,Graphics
+42,tcp,Host
+42,udp,Host
+427,tcp,SLP
+43,tcp,WHOIS
+433,tcp,NNTP
+434,tcp,RFC 5944
+44,tcp,MPM FLAGS Protocol
+443,tcp,HTTPS
+444,tcp,SNPP
+445,tcp,Directory Services
+45,tcp,Message Processing Module
+46,tcp,MPM
+464,tcp,Kpasswd
+465,tcp,URL
+475,tcp,tcpnethaspsrv
+48,tcp,Digital Audit Daemon
+49,tcp,TACACS Login Host protocol TACACS
+491,tcp,GOGlobal
+491,udp,GOGlobal
+5,tcp,Remote Job Entry was historically using socket 5 in its old socket form
+50,tcp,Remote Mail Checking Protocol
+500,tcp,ISAKMP
+500,udp,ISAKMP
+502,tcp,Modbus
+504,tcp,Citadel
+510,tcp,FCP
+512,tcp,comsat
+514,tcp,Remote Shell rsh remsh
+514,udp,Syslog
+515,tcp,LPD
+52,tcp,XNS
+520,tcp,RIP
+521,udp,RIPng
+524,tcp,NCP
+525,udp,Timed
+53,tcp,DNS
+530,tcp,RPC
+533,udp,netwall
+54,tcp,XNS
+540,tcp,UUCP
+542,tcp,Commerce Applications
+543,tcp,klogin
+544,tcp,kshell
+546,tcp,DHCPv6
+547,tcp,DHCPv6
+548,tcp,AFP
+55,tcp,ISI Graphics Language
+550,tcp,newrwho
+554,tcp,RTSP
+556,tcp,Remotefs
+56,tcp,XNS
+560,udp,rmonitor
+563,tcp,NNTPS
+564,tcp,Plan 9
+564,udp,Plan 9
+58,tcp,XNS
+587,tcp,No longer preferred see port 465
+591,tcp,and later
+593,tcp,HTTP RPC Ep Map
+601,tcp,Reliable
+604,tcp,TUNNEL profile
+62,tcp,ACA Services
+623,udp,ASFRMCP
+625,tcp,ODProxy
+63,tcp,whois
+631,tcp,CUPS
+631,udp,CUPS
+635,tcp,RLZ
+636,tcp,LDAPS
+639,tcp,Multicast Source Discovery Protocol
+64,tcp,Communications Integrator CI
+641,tcp,controllistening
+646,tcp,LDP
+647,tcp,DHCP
+648,tcp,RRP
+65,tcp,TACACSDatabase Service
+653,tcp,data
+654,tcp,MMS
+655,tcp,Tinc
+657,tcp,Remote monitoring and Control
+66,tcp,Oracle SQLNET
+660,tcp,macOS Server administration
+666,tcp,airservng
+666,udp,airservng
+67,tcp,BOOTP
+67,udp,BOOTP
+674,tcp,ACAP
+68,tcp,BOOTP
+68,udp,BOOTP
+684,tcp,CORBA
+688,tcp,ApplianceWare Server Appliance Management Protocol
+69,tcp,TFTP
+69,udp,TFTP
+690,tcp,VATP
+691,tcp,MS
+694,tcp,LinuxHA
+695,tcp,IEEEMMSSSL
+698,udp,OLSR
+7,tcp,Echo
+70,tcp,Gopher
+700,tcp,EPP
+701,tcp,LMP
+702,tcp,Internet Registry Information Service
+706,tcp,SILC
+711,tcp,Cisco
+712,tcp,TBRPF RFC 3684
+749,tcp,Kerberos
+750,udp,kerberosiv
+751,tcp,kerberosmaster
+751,udp,kerberosmaster
+753,tcp,userregserver
+753,udp,userregserver
+754,tcp,krb5prop
+754,udp,krb5prop
+76,tcp,Distributed External Object Store
+760,tcp,krbupdate
+760,udp,krbupdate
+777,tcp,machine
+777,udp,machine
+78,tcp,vettcp
+782,tcp,Conserver
+782,udp,Conserver
+783,tcp,SpamAssassin
+783,udp,SpamAssassin
+79,tcp,Finger
+80,tcp,HTTP
+802,tcp,MODBUSTCP
+808,tcp,Microsoft
+808,udp,Microsoft
+81,tcp,TorPark
+81,udp,TorPark
+82,tcp,XFER Utility
+829,tcp,Certificate
+83,tcp,MIT ML Device
+830,tcp,NETCONF
+831,tcp,NETCONF
+832,tcp,NETCONF
+833,tcp,NETCONF
+84,tcp,Common Trace Facility
+843,tcp,Adobe
+843,udp,Adobe
+847,tcp,DHCP
+848,tcp,GDOI
+85,tcp,MIT ML Device
+853,tcp,DNS
+86,tcp,Micro Focus Cobol
+860,tcp,RFC 3720
+861,tcp,RFC 4656
+862,tcp,RFC 5357
+873,tcp,rsync
+88,tcp,Kerberos
+888,tcp,IBM
+888,udp,IBM
+89,tcp,SUMIT Telnet Gateway
+897,tcp,Brocade
+897,udp,Brocade
+898,tcp,Brocade
+898,udp,Brocade
+9,tcp,Discard
+90,tcp,dotcom
+90,udp,dotcom
+902,tcp,VMware
+902,udp,VMware
+903,tcp,VMware
+903,udp,VMware
+91,tcp,MIT Dover Spooler
+92,tcp,Network Printing Protocol
+93,tcp,Device Control Protocol
+94,tcp,Tivoli Object Dispatcher
+95,tcp,SUPDUP
+953,tcp,RNDC
+96,tcp,DIXIE Protocol Specification
+97,tcp,Swift Remote Virtual File Protocol
+98,tcp,TAC News
+981,tcp,Remote
+981,udp,Remote
+987,tcp,Microsoft Remote Web Workplace
+987,udp,Microsoft Remote Web Workplace
+988,tcp,file system
+988,udp,file system
+989,tcp,data
+99,tcp,Metagram Relay
+990,tcp,control
+991,tcp,NAS
+992,tcp,Telnet
+993,tcp,IMAPS
+995,tcp,POP3S

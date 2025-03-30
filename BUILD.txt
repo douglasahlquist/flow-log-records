@@ -1,0 +1,17 @@
+# Dependencies
+These installation instruction are written for a Apple Mac
+JAVA Version 17 
+`brew install openjdk@17`
+
+Maven
+`brew install maven`
+
+
+Building the source
+
+run the command
+`mvn install`
+
+
+
+

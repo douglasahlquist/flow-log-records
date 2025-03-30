@@ -1,0 +1,9 @@
+# Executing the application.
+To make thing simple, there is a simple wrapper class that allows serveral applications
+to be executed from a single jar file.  Server bash files are written to also facilitate the execution.
+
+Look for the files with the .sh extentions
+On a Mac executing the scrits in the terminal by preceeding the scripts with './' before the script name
+
+
+
