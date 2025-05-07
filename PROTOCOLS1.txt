@@ -36,7 +36,8 @@ Several internet protocols extend or build upon UDP (User Datagram Protocol) to 
 
 
 
-Several internet protocols extend or build upon TCP (Transmission Control Protocol) to provide additional functionalities. Here are some key ones:
+Several internet protocols extend or build upon TCP (Transmission Control Protocol) to provide additional functionalities. 
+Here are some key ones:
 
 1. TLS (Transport Layer Security) / SSL (Secure Sockets Layer)
 	•	Encrypts TCP connections to ensure confidentiality, integrity, and authentication.
@@ -63,6 +64,6 @@ Several internet protocols extend or build upon TCP (Transmission Control Protoc
 
 7. FTP (File Transfer Protocol) over TCP
 	•	Uses two TCP connections: control (port 21) and data (varies)
-Would you like details on a specific protocol or its implementation?
+
 
 
